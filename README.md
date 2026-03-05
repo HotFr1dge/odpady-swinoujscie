@@ -28,7 +28,7 @@ Domy jednorodzinne, bliźniaki i budynki z najwyżej dwoma lokalami mieszkalnymi
 
 ### Rejon 1
 
-[![Dodaj do kalendarza](https://img.shields.io/badge/📅_Dodaj_do_kalendarza-Rejon_1-2d6a4f?style=for-the-badge)](# )
+[![Dodaj do kalendarza](https://img.shields.io/badge/📅_Dodaj_do_kalendarza-Rejon_1-2d6a4f?style=for-the-badge)](https://raw.githubusercontent.com/HotFr1dge/odpady-swinoujscie/refs/heads/main/UpTo2Flats_ics/harmonogram_rejon_1_do2_2026.ics)
 
 **Ulice:**
 - Drawska
@@ -52,7 +52,7 @@ Domy jednorodzinne, bliźniaki i budynki z najwyżej dwoma lokalami mieszkalnymi
 
 ### Rejon 2
 
-[![Dodaj do kalendarza](https://img.shields.io/badge/📅_Dodaj_do_kalendarza-Rejon_2-2d6a4f?style=for-the-badge)](# )
+[![Dodaj do kalendarza](https://img.shields.io/badge/📅_Dodaj_do_kalendarza-Rejon_2-2d6a4f?style=for-the-badge)](https://raw.githubusercontent.com/HotFr1dge/odpady-swinoujscie/refs/heads/main/UpTo2Flats_ics/harmonogram_rejon_2_do2_2026.ics)
 
 **Ulice:**
 - 11 Listopada
@@ -80,7 +80,7 @@ Domy jednorodzinne, bliźniaki i budynki z najwyżej dwoma lokalami mieszkalnymi
 
 ### Rejon 3
 
-[![Dodaj do kalendarza](https://img.shields.io/badge/📅_Dodaj_do_kalendarza-Rejon_3-2d6a4f?style=for-the-badge)](# )
+[![Dodaj do kalendarza](https://img.shields.io/badge/📅_Dodaj_do_kalendarza-Rejon_3-2d6a4f?style=for-the-badge)](https://raw.githubusercontent.com/HotFr1dge/odpady-swinoujscie/refs/heads/main/UpTo2Flats_ics/harmonogram_rejon_3_do2_2026.ics)
 
 **Ulice:**
 - Broniewskiego
@@ -107,7 +107,7 @@ Domy jednorodzinne, bliźniaki i budynki z najwyżej dwoma lokalami mieszkalnymi
 
 ### Rejon 4
 
-[![Dodaj do kalendarza](https://img.shields.io/badge/📅_Dodaj_do_kalendarza-Rejon_4-2d6a4f?style=for-the-badge)](# )
+[![Dodaj do kalendarza](https://img.shields.io/badge/📅_Dodaj_do_kalendarza-Rejon_4-2d6a4f?style=for-the-badge)](https://raw.githubusercontent.com/HotFr1dge/odpady-swinoujscie/refs/heads/main/UpTo2Flats_ics/harmonogram_rejon_4_do2_2026.ics)
 
 **Ulice:**
 - Ar. Krajowej
@@ -159,7 +159,7 @@ Domy jednorodzinne, bliźniaki i budynki z najwyżej dwoma lokalami mieszkalnymi
 
 ### Rejon 5 · Warszów / Ognica
 
-[![Dodaj do kalendarza](https://img.shields.io/badge/📅_Dodaj_do_kalendarza-Rejon_5_(Warszów/Ognica)-2d6a4f?style=for-the-badge)](# )
+[![Dodaj do kalendarza](https://img.shields.io/badge/📅_Dodaj_do_kalendarza-Rejon_5_(Warszów/Ognica)-2d6a4f?style=for-the-badge)](https://raw.githubusercontent.com/HotFr1dge/odpady-swinoujscie/refs/heads/main/UpTo2Flats_ics/harmonogram_rejon_5_do2_2026.ics)
 
 **Ulice:**
 - Barlickiego
@@ -193,7 +193,7 @@ Domy jednorodzinne, bliźniaki i budynki z najwyżej dwoma lokalami mieszkalnymi
 
 ### Rejon 6 · Przytór
 
-[![Dodaj do kalendarza](https://img.shields.io/badge/📅_Dodaj_do_kalendarza-Rejon_6_(Przytór)-1b6ca8?style=for-the-badge)](# )
+[![Dodaj do kalendarza](https://img.shields.io/badge/📅_Dodaj_do_kalendarza-Rejon_6_(Przytór)-1b6ca8?style=for-the-badge)](https://raw.githubusercontent.com/HotFr1dge/odpady-swinoujscie/refs/heads/main/UpTo2Flats_ics/harmonogram_rejon_6_do2_2026.ics)
 
 **Ulice:**
 - Gradowa
@@ -213,7 +213,7 @@ Domy jednorodzinne, bliźniaki i budynki z najwyżej dwoma lokalami mieszkalnymi
 
 ### Rejon 7 · Łunowo
 
-[![Dodaj do kalendarza](https://img.shields.io/badge/📅_Dodaj_do_kalendarza-Rejon_7_(Łunowo)-1b6ca8?style=for-the-badge)](# )
+[![Dodaj do kalendarza](https://img.shields.io/badge/📅_Dodaj_do_kalendarza-Rejon_7_(Łunowo)-1b6ca8?style=for-the-badge)](https://raw.githubusercontent.com/HotFr1dge/odpady-swinoujscie/refs/heads/main/UpTo2Flats_ics/harmonogram_rejon_7_do2_2026.ics)
 
 **Ulice:**
 - Gajowa
@@ -232,7 +232,7 @@ Domy jednorodzinne, bliźniaki i budynki z najwyżej dwoma lokalami mieszkalnymi
 
 ### Rejon 8 · Karsibór
 
-[![Dodaj do kalendarza](https://img.shields.io/badge/📅_Dodaj_do_kalendarza-Rejon_8_(Karsibór)-1b6ca8?style=for-the-badge)](# )
+[![Dodaj do kalendarza](https://img.shields.io/badge/📅_Dodaj_do_kalendarza-Rejon_8_(Karsibór)-1b6ca8?style=for-the-badge)](https://raw.githubusercontent.com/HotFr1dge/odpady-swinoujscie/refs/heads/main/UpTo2Flats_ics/harmonogram_rejon_8_do2_2026.ics)
 
 **Ulice:**
 - 1-ej Armii W.P.
@@ -263,7 +263,7 @@ Bloki, kamienice i budynki wielorodzinne z więcej niż dwoma lokalami mieszkaln
 
 ### Rejon 1
 
-[![Dodaj do kalendarza](https://img.shields.io/badge/📅_Dodaj_do_kalendarza-Rejon_1-2d6a4f?style=for-the-badge)](# )
+[![Dodaj do kalendarza](https://img.shields.io/badge/📅_Dodaj_do_kalendarza-Rejon_1-2d6a4f?style=for-the-badge)](https://raw.githubusercontent.com/HotFr1dge/odpady-swinoujscie/refs/heads/main/Above2Flats_ics/harmonogram_rejon_1_2026.ics)
 
 **Ulice:**
 - 11 Listopada
@@ -288,7 +288,7 @@ Bloki, kamienice i budynki wielorodzinne z więcej niż dwoma lokalami mieszkaln
 
 ### Rejon 2
 
-[![Dodaj do kalendarza](https://img.shields.io/badge/📅_Dodaj_do_kalendarza-Rejon_2-2d6a4f?style=for-the-badge)](# )
+[![Dodaj do kalendarza](https://img.shields.io/badge/📅_Dodaj_do_kalendarza-Rejon_2-2d6a4f?style=for-the-badge)](https://raw.githubusercontent.com/HotFr1dge/odpady-swinoujscie/refs/heads/main/Above2Flats_ics/harmonogram_rejon_2_2026.ics)
 
 **Ulice:**
 - Bat. Chłopskich
@@ -310,7 +310,7 @@ Bloki, kamienice i budynki wielorodzinne z więcej niż dwoma lokalami mieszkaln
 
 ### Rejon 3
 
-[![Dodaj do kalendarza](https://img.shields.io/badge/📅_Dodaj_do_kalendarza-Rejon_3-2d6a4f?style=for-the-badge)](# )
+[![Dodaj do kalendarza](https://img.shields.io/badge/📅_Dodaj_do_kalendarza-Rejon_3-2d6a4f?style=for-the-badge)](https://raw.githubusercontent.com/HotFr1dge/odpady-swinoujscie/refs/heads/main/Above2Flats_ics/harmonogram_rejon_3_2026.ics)
 
 **Ulice:**
 - Bałtycka 10–11
@@ -336,7 +336,7 @@ Bloki, kamienice i budynki wielorodzinne z więcej niż dwoma lokalami mieszkaln
 
 ### Rejon 4
 
-[![Dodaj do kalendarza](https://img.shields.io/badge/📅_Dodaj_do_kalendarza-Rejon_4-2d6a4f?style=for-the-badge)](# )
+[![Dodaj do kalendarza](https://img.shields.io/badge/📅_Dodaj_do_kalendarza-Rejon_4-2d6a4f?style=for-the-badge)](https://raw.githubusercontent.com/HotFr1dge/odpady-swinoujscie/refs/heads/main/Above2Flats_ics/harmonogram_rejon_4_2026.ics)
 
 **Ulice:**
 - Bogusławskiego
@@ -361,7 +361,7 @@ Bloki, kamienice i budynki wielorodzinne z więcej niż dwoma lokalami mieszkaln
 
 ### Rejon 5
 
-[![Dodaj do kalendarza](https://img.shields.io/badge/📅_Dodaj_do_kalendarza-Rejon_5-2d6a4f?style=for-the-badge)](# )
+[![Dodaj do kalendarza](https://img.shields.io/badge/📅_Dodaj_do_kalendarza-Rejon_5-2d6a4f?style=for-the-badge)](https://raw.githubusercontent.com/HotFr1dge/odpady-swinoujscie/refs/heads/main/Above2Flats_ics/harmonogram_rejon_5_2026.ics)
 
 **Ulice:**
 - Ar. Krajowej
@@ -381,7 +381,7 @@ Bloki, kamienice i budynki wielorodzinne z więcej niż dwoma lokalami mieszkaln
 
 ### Rejon 6 · Warszów
 
-[![Dodaj do kalendarza](https://img.shields.io/badge/📅_Dodaj_do_kalendarza-Rejon_6_(Warszów)-1b6ca8?style=for-the-badge)](# )
+[![Dodaj do kalendarza](https://img.shields.io/badge/📅_Dodaj_do_kalendarza-Rejon_6_(Warszów)-1b6ca8?style=for-the-badge)](https://raw.githubusercontent.com/HotFr1dge/odpady-swinoujscie/refs/heads/main/Above2Flats_ics/harmonogram_rejon_6_2026.ics)
 
 **Ulice:**
 - Barlickiego
