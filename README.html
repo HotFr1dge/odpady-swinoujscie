@@ -1,0 +1,669 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Harmonogramy Odbioru Odpadów – Świnoujście 2026</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=DM+Sans:wght@300;400;500;600&display=swap');
+
+  :root {
+    --bg: #f5f2ec;
+    --ink: #1a1a18;
+    --muted: #6b6b60;
+    --accent: #2d6a4f;
+    --accent2: #52b788;
+    --accent3: #d8f3dc;
+    --card: #ffffff;
+    --border: #ddd9ce;
+    --warn: #b5451b;
+  }
+
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    background: var(--bg);
+    color: var(--ink);
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 400;
+    line-height: 1.6;
+    min-height: 100vh;
+  }
+
+  /* HERO */
+  .hero {
+    background: var(--ink);
+    color: var(--bg);
+    padding: 64px 40px 56px;
+    position: relative;
+    overflow: hidden;
+  }
+  .hero::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: repeating-linear-gradient(
+      -45deg,
+      transparent,
+      transparent 40px,
+      rgba(255,255,255,.02) 40px,
+      rgba(255,255,255,.02) 41px
+    );
+  }
+  .hero-inner { max-width: 860px; margin: 0 auto; position: relative; }
+  .hero-eyebrow {
+    font-size: 11px;
+    letter-spacing: .2em;
+    text-transform: uppercase;
+    color: var(--accent2);
+    margin-bottom: 16px;
+    font-weight: 500;
+  }
+  .hero h1 {
+    font-family: 'DM Serif Display', serif;
+    font-size: clamp(2.2rem, 5vw, 3.6rem);
+    line-height: 1.15;
+    margin-bottom: 20px;
+    color: #fff;
+  }
+  .hero h1 em { font-style: italic; color: var(--accent2); }
+  .hero-meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 24px;
+    font-size: 13px;
+    color: rgba(255,255,255,.55);
+    margin-top: 28px;
+    border-top: 1px solid rgba(255,255,255,.1);
+    padding-top: 24px;
+  }
+  .hero-meta a { color: var(--accent2); text-decoration: none; }
+  .hero-meta a:hover { text-decoration: underline; }
+
+  /* NOTICE */
+  .notice {
+    background: #fff8f0;
+    border-left: 3px solid var(--warn);
+    margin: 0;
+    padding: 16px 40px;
+  }
+  .notice-inner { max-width: 860px; margin: 0 auto; font-size: 13.5px; color: #5a2d0c; line-height: 1.5; }
+  .notice-inner strong { font-weight: 600; }
+
+  /* MAIN */
+  main { max-width: 860px; margin: 0 auto; padding: 48px 40px 80px; }
+
+  /* SECTION */
+  .section { margin-bottom: 64px; }
+  .section-title {
+    font-family: 'DM Serif Display', serif;
+    font-size: 1.6rem;
+    margin-bottom: 8px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  .section-title .icon { font-size: 1.4rem; }
+  .section-desc { color: var(--muted); font-size: 14px; margin-bottom: 24px; }
+
+  /* LEGEND */
+  .legend {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-bottom: 32px;
+  }
+  .legend-item {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 20px;
+    padding: 4px 12px 4px 8px;
+    font-size: 12.5px;
+    font-weight: 500;
+  }
+
+  /* REJON CARDS */
+  .rejony-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(380px, 1fr));
+    gap: 16px;
+  }
+  .rejon-card {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    overflow: hidden;
+    transition: box-shadow .2s, transform .2s;
+  }
+  .rejon-card:hover { box-shadow: 0 8px 32px rgba(0,0,0,.08); transform: translateY(-2px); }
+
+  .rejon-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 14px 18px 12px;
+    border-bottom: 1px solid var(--border);
+    background: var(--accent3);
+  }
+  .rejon-card.alt .rejon-header { background: #e8f4f8; }
+
+  .rejon-name {
+    font-weight: 600;
+    font-size: 15px;
+    color: var(--accent);
+  }
+  .rejon-card.alt .rejon-name { color: #1b6ca8; }
+  .rejon-area { font-size: 11px; color: var(--muted); margin-top: 1px; }
+
+  .rejon-body { padding: 14px 18px; }
+
+  .streets {
+    font-size: 12px;
+    color: var(--muted);
+    line-height: 1.8;
+    margin-bottom: 14px;
+  }
+  .streets strong { color: var(--ink); font-size: 11px; letter-spacing: .06em; text-transform: uppercase; display: block; margin-bottom: 4px; }
+
+  .cal-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 7px;
+    padding: 8px 14px;
+    border-radius: 6px;
+    font-size: 12.5px;
+    font-weight: 500;
+    text-decoration: none;
+    border: 1.5px solid currentColor;
+    transition: background .15s, color .15s;
+    cursor: pointer;
+  }
+  .cal-btn svg { width: 15px; height: 15px; flex-shrink: 0; }
+  .cal-btn.green { color: var(--accent); }
+  .cal-btn.green:hover { background: var(--accent3); }
+  .cal-btn.blue { color: #1b6ca8; }
+  .cal-btn.blue:hover { background: #e8f4f8; }
+
+  .cal-btns { display: flex; flex-wrap: wrap; gap: 8px; }
+
+  /* DIVIDER */
+  .type-divider {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    margin: 40px 0 20px;
+    font-size: 11px;
+    letter-spacing: .12em;
+    text-transform: uppercase;
+    color: var(--muted);
+    font-weight: 500;
+  }
+  .type-divider::before, .type-divider::after {
+    content: '';
+    flex: 1;
+    height: 1px;
+    background: var(--border);
+  }
+
+  /* INFO TABLE */
+  .info-table { width: 100%; border-collapse: collapse; font-size: 13px; margin-top: 16px; }
+  .info-table th {
+    text-align: left;
+    padding: 8px 12px;
+    background: var(--ink);
+    color: #fff;
+    font-weight: 500;
+    font-size: 11.5px;
+    letter-spacing: .04em;
+  }
+  .info-table th:first-child { border-radius: 6px 0 0 0; }
+  .info-table th:last-child { border-radius: 0 6px 0 0; }
+  .info-table td { padding: 9px 12px; border-bottom: 1px solid var(--border); vertical-align: top; }
+  .info-table tr:last-child td { border-bottom: none; }
+  .info-table tr:nth-child(even) td { background: #fafaf7; }
+  .emoji-col { width: 32px; text-align: center; }
+
+  /* FOOTER */
+  footer {
+    background: var(--ink);
+    color: rgba(255,255,255,.4);
+    text-align: center;
+    padding: 32px 40px;
+    font-size: 12.5px;
+    line-height: 1.7;
+  }
+  footer a { color: var(--accent2); text-decoration: none; }
+  footer a:hover { text-decoration: underline; }
+
+  @media (max-width: 600px) {
+    .hero { padding: 40px 20px 36px; }
+    main { padding: 32px 20px 60px; }
+    .rejony-grid { grid-template-columns: 1fr; }
+    .notice { padding: 14px 20px; }
+  }
+</style>
+</head>
+<body>
+
+<header class="hero">
+  <div class="hero-inner">
+    <p class="hero-eyebrow">Miasto Świnoujście · 2026</p>
+    <h1>Harmonogramy odbioru<br><em>odpadów komunalnych</em></h1>
+    <p style="color:rgba(255,255,255,.65); font-size:15px; max-width:560px; line-height:1.7;">
+      Kalendarze w formacie <strong style="color:#fff">.ics</strong> do pobrania i importu do Google Calendar, Apple Calendar, Outlook i innych aplikacji kalendarzowych. Każdy plik zawiera wszystkie rodzaje odbieranych odpadów dla danego rejonu.
+    </p>
+    <div class="hero-meta">
+      <span>📍 Świnoujście</span>
+      <span>📅 Rok 2026</span>
+      <span>🗂️ Format ICS (iCalendar)</span>
+      <span>Źródło: <a href="https://www.swinoujscie.pl/artykul/114-12305-harmonogramy-odbioru-odpadow-komunalnych-w-2026-roku" target="_blank">swinoujscie.pl</a></span>
+    </div>
+  </div>
+</header>
+
+<div class="notice">
+  <div class="notice-inner">
+    <strong>⚠️ Ważne:</strong> Pliki kalendarzy zostały wygenerowane przy pomocy sztucznej inteligencji na podstawie oficjalnych harmonogramów opublikowanych przez Urząd Miasta Świnoujście i zostały <strong>pobieżnie zweryfikowane przez człowieka</strong>. W razie wątpliwości zawsze sprawdzaj aktualne informacje na stronie <a href="https://www.swinoujscie.pl/artykul/114-12305-harmonogramy-odbioru-odpadow-komunalnych-w-2026-roku" target="_blank" style="color:var(--warn)">swinoujscie.pl</a>. Daty oznaczone „*" w oryginalnych harmonogramach (zmienione terminy) zostały uwzględnione.
+  </div>
+</div>
+
+<main>
+
+  <!-- LEGEND -->
+  <div class="section">
+    <h2 class="section-title"><span class="icon">📋</span> Typy odpadów w kalendarzach</h2>
+    <p class="section-desc">Każde wydarzenie w kalendarzu opisuje jeden termin odbioru konkretnego rodzaju odpadów.</p>
+    <div class="legend">
+      <span class="legend-item">🗑️ Odpady zmieszane</span>
+      <span class="legend-item">🟤 Bioodpady</span>
+      <span class="legend-item">📦 Papier</span>
+      <span class="legend-item">🟡 Plastik i metal</span>
+      <span class="legend-item">🟢 Szkło</span>
+      <span class="legend-item">🛋️ Gabaryty i RTV/AGD</span>
+      <span class="legend-item">🎄 Choinki</span>
+    </div>
+
+    <table class="info-table">
+      <tr>
+        <th class="emoji-col">♻️</th>
+        <th>Rodzaj odpadu</th>
+        <th>Nieruchomości do 2 lokali</th>
+        <th>Nieruchomości pow. 2 lokali</th>
+      </tr>
+      <tr><td>🗑️</td><td>Odpady zmieszane</td><td>Cotygodniowo (wg dnia dla ulicy)</td><td>2–4× w tygodniu (wg adresu)</td></tr>
+      <tr><td>🟤</td><td>Bioodpady</td><td>Co 4 tyg. (I–II, XII) / co 2 tyg. (III–XI)</td><td>Co tydzień lub co 2 tyg. (wg rejonu)</td></tr>
+      <tr><td>📦</td><td>Papier</td><td>Co 6 tyg. (I–V, IX–XII) / co 4 tyg. (VI–VIII)</td><td>Co 2 tyg. (cały rok)</td></tr>
+      <tr><td>🟡</td><td>Plastik i metal</td><td>Co 4 tyg. (I–III, X–XII) / co 2 tyg. (IV–IX)</td><td>Co 2 tyg. (cały rok)</td></tr>
+      <tr><td>🟢</td><td>Szkło</td><td>Co 8 tyg. (I–III, X) / co 4 tyg. (IV–IX)</td><td>Co 2 tyg. (cały rok)</td></tr>
+      <tr><td>🛋️</td><td>Gabaryty i RTV/AGD</td><td>4× w roku (luty, kwiecień/maj, lipiec, październik)</td><td>Raz w miesiącu</td></tr>
+      <tr><td>🎄</td><td>Choinki</td><td>2 terminy w styczniu/lutym</td><td>2 terminy w styczniu/lutym</td></tr>
+    </table>
+  </div>
+
+  <!-- NIERUCHOMOŚCI DO 2 LOKALI -->
+  <div class="section">
+    <h2 class="section-title"><span class="icon">🏡</span> Nieruchomości do 2 lokali</h2>
+    <p class="section-desc">Domy jednorodzinne, bliźniaki i budynki z najwyżej dwoma lokalami mieszkalnymi. Obejmuje 8 rejonów.</p>
+
+    <div class="rejony-grid">
+
+      <!-- REJON 1 -->
+      <div class="rejon-card">
+        <div class="rejon-header">
+          <div>
+            <div class="rejon-name">Rejon 1</div>
+            <div class="rejon-area"></div>
+          </div>
+          <span style="font-size:1.6rem">1️⃣</span>
+        </div>
+        <div class="rejon-body">
+          <div class="streets">
+            <strong>Ulice</strong>
+            Drawska · Grodzka · Grunwaldzka · Nowokarsiborska · Karsiborska · Kaszubska · Kuglinów · Krzywa · Małopolska · Markiewicza · Mazowiecka · Mazurska · Szkolna · Toruńska · Wielkopolska · Odrowców
+          </div>
+          <div class="cal-btns">
+            <a href="#" class="cal-btn green">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="4" width="18" height="18" rx="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>
+              Pobierz kalendarz (.ics)
+            </a>
+          </div>
+        </div>
+      </div>
+
+      <!-- REJON 2 -->
+      <div class="rejon-card">
+        <div class="rejon-header">
+          <div>
+            <div class="rejon-name">Rejon 2</div>
+            <div class="rejon-area"></div>
+          </div>
+          <span style="font-size:1.6rem">2️⃣</span>
+        </div>
+        <div class="rejon-body">
+          <div class="streets">
+            <strong>Ulice</strong>
+            11 Listopada · Basztowa · Bydgoska · Chełmska · Gdańska · Gdyńska · Grudziądzka · Herbowa · Hetmańska · Husarska · Legionów · Mieczowa · Olsztyńska · Rycerska · Strzelecka · Śląska · Turniejowa · Ułańska · Warszawska · Zamkowa
+          </div>
+          <div class="cal-btns">
+            <a href="#" class="cal-btn green">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="4" width="18" height="18" rx="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>
+              Pobierz kalendarz (.ics)
+            </a>
+          </div>
+        </div>
+      </div>
+
+      <!-- REJON 3 -->
+      <div class="rejon-card">
+        <div class="rejon-header">
+          <div>
+            <div class="rejon-name">Rejon 3</div>
+            <div class="rejon-area"></div>
+          </div>
+          <span style="font-size:1.6rem">3️⃣</span>
+        </div>
+        <div class="rejon-body">
+          <div class="streets">
+            <strong>Ulice</strong>
+            Broniewskiego · Bursztynowa · Chodorowskiej · Fredry · Gałczyńskiego · Graniczna · Grottgera · K. Miarki · Kochanowskiego · Kossaków · Mar. Wojennej · Moniuszki · Norwida · Roosevelta · Siemiradzkiego · Staffa · Tuwima · Woj. Polskiego (od nr 14) · Zapolskiej
+          </div>
+          <div class="cal-btns">
+            <a href="#" class="cal-btn green">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="4" width="18" height="18" rx="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>
+              Pobierz kalendarz (.ics)
+            </a>
+          </div>
+        </div>
+      </div>
+
+      <!-- REJON 4 -->
+      <div class="rejon-card">
+        <div class="rejon-header">
+          <div>
+            <div class="rejon-name">Rejon 4</div>
+            <div class="rejon-area"></div>
+          </div>
+          <span style="font-size:1.6rem">4️⃣</span>
+        </div>
+        <div class="rejon-body">
+          <div class="streets">
+            <strong>Ulice</strong>
+            Ar. Krajowej · Beniowskiego · Boh. Września · Bol. Chrobrego · Chopina · Dąbrowskiego · Drzymały · Grunwaldzka 65b/65c · Grunwaldzka 88 · Herberta · Hołdu Pruskiego · Jana z Kolna · Kapitańska · Komandorska · Konopnickiej · Konst. 3 Maja · Kościuszki · Lechicka · Leśmiana · Lutycka · Łużycka · Małachowskiego · Marynarzy · Matejki · Mieszka I · Monte Cassino · Niedziałkowskiego · Piastowska · Pl. Słowiański · Prusa · Pułaskiego · Rogozińskiego · Sienkiewicza · Słowackiego · Staszica · Steyera · Teligi · Ujejskiego · Woj. Polskiego (1–13) · Wyspiańskiego · Wyszyńskiego · Wyb. Wład. IV · Żeglarska · Żeromskiego
+          </div>
+          <div class="cal-btns">
+            <a href="#" class="cal-btn green">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="4" width="18" height="18" rx="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>
+              Pobierz kalendarz (.ics)
+            </a>
+          </div>
+        </div>
+      </div>
+
+      <!-- REJON 5 -->
+      <div class="rejon-card">
+        <div class="rejon-header">
+          <div>
+            <div class="rejon-name">Rejon 5</div>
+            <div class="rejon-area">Warszów / Ognica</div>
+          </div>
+          <span style="font-size:1.6rem">5️⃣</span>
+        </div>
+        <div class="rejon-body">
+          <div class="streets">
+            <strong>Ulice</strong>
+            Barlickiego · Białoruska · Brzegowa · Bunkrowa · Czeska · Duńska · Fińska · Holenderska · Jaracza · Jana Pawła II · Ludzi Morza · Łąkowa · Modrzejewska · Mostowa · Niecała · Norweska · Okólna · Porębskiego · Skandynawska · Sosnowa · Sołtana · Szwedzka · Węgierska · Wrzosowa · Wyspowa · Żwirki i Wigury
+          </div>
+          <div class="cal-btns">
+            <a href="#" class="cal-btn green">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="4" width="18" height="18" rx="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>
+              Pobierz kalendarz (.ics)
+            </a>
+          </div>
+        </div>
+      </div>
+
+      <!-- REJON 6 -->
+      <div class="rejon-card alt">
+        <div class="rejon-header">
+          <div>
+            <div class="rejon-name" style="color:#1b6ca8">Rejon 6</div>
+            <div class="rejon-area">Przytór</div>
+          </div>
+          <span style="font-size:1.6rem">6️⃣</span>
+        </div>
+        <div class="rejon-body">
+          <div class="streets">
+            <strong>Ulice</strong>
+            Gradowa · Kręta · Myśliwska · Osiedlowa · Pogodna · Polna · Pomorska · Sąsiedzka · Słoneczna · Tęczowa · Turkusowa · Zalewowa (nr 1–40)
+          </div>
+          <div class="cal-btns">
+            <a href="#" class="cal-btn blue">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="4" width="18" height="18" rx="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>
+              Pobierz kalendarz (.ics)
+            </a>
+          </div>
+        </div>
+      </div>
+
+      <!-- REJON 7 -->
+      <div class="rejon-card alt">
+        <div class="rejon-header">
+          <div>
+            <div class="rejon-name" style="color:#1b6ca8">Rejon 7</div>
+            <div class="rejon-area">Łunowo</div>
+          </div>
+          <span style="font-size:1.6rem">7️⃣</span>
+        </div>
+        <div class="rejon-body">
+          <div class="streets">
+            <strong>Ulice</strong>
+            Gajowa · Lawendowa · Odrzańska · Spokojna · Sucha · Szantowa · Szmaragdowa · Sztormowa · Wolińska · Zalewowa (od nr 41) · Zarzecze
+          </div>
+          <div class="cal-btns">
+            <a href="#" class="cal-btn blue">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="4" width="18" height="18" rx="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>
+              Pobierz kalendarz (.ics)
+            </a>
+          </div>
+        </div>
+      </div>
+
+      <!-- REJON 8 -->
+      <div class="rejon-card alt">
+        <div class="rejon-header">
+          <div>
+            <div class="rejon-name" style="color:#1b6ca8">Rejon 8</div>
+            <div class="rejon-area">Karsibór</div>
+          </div>
+          <span style="font-size:1.6rem">8️⃣</span>
+        </div>
+        <div class="rejon-body">
+          <div class="streets">
+            <strong>Ulice</strong>
+            1-ej Armii W.P. · 1-go Maja · Barkowa · Brzozowa · Głęboka · Kanałowa · Kwiatowa · Łęgowa · Miodowa · Ogrodowa · Os. Wojskowych · Owocowa · Promowa · Prosta · Trzcinowa · Warzywna · Wąska · Wierzbowa · Zacisze
+          </div>
+          <div class="cal-btns">
+            <a href="#" class="cal-btn blue">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="4" width="18" height="18" rx="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>
+              Pobierz kalendarz (.ics)
+            </a>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- NIERUCHOMOŚCI POWYŻEJ 2 LOKALI -->
+  <div class="section">
+    <h2 class="section-title"><span class="icon">🏢</span> Nieruchomości powyżej 2 lokali</h2>
+    <p class="section-desc">Bloki, kamienice i budynki wielorodzinne z więcej niż dwoma lokalami mieszkalnymi. Obejmuje 6 rejonów.</p>
+
+    <div class="rejony-grid">
+
+      <!-- REJON 1 -->
+      <div class="rejon-card">
+        <div class="rejon-header">
+          <div>
+            <div class="rejon-name">Rejon 1</div>
+          </div>
+          <span style="font-size:1.6rem">1️⃣</span>
+        </div>
+        <div class="rejon-body">
+          <div class="streets">
+            <strong>Ulice</strong>
+            11 Listopada · Basztowa · Gdyńska · Grudziądzka · Grunwaldzka · Kaszubska · Krzywa · Markiewicza · Odrowców · Olsztyńska · Rycerska 11–13 · Szkolna · Śląska · Toruńska · Ułańska · Warszawska · Wielkopolska
+          </div>
+          <div class="cal-btns">
+            <a href="#" class="cal-btn green">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="4" width="18" height="18" rx="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>
+              Pobierz kalendarz (.ics)
+            </a>
+          </div>
+        </div>
+      </div>
+
+      <!-- REJON 2 -->
+      <div class="rejon-card">
+        <div class="rejon-header">
+          <div>
+            <div class="rejon-name">Rejon 2</div>
+          </div>
+          <span style="font-size:1.6rem">2️⃣</span>
+        </div>
+        <div class="rejon-body">
+          <div class="streets">
+            <strong>Ulice</strong>
+            Bat. Chłopskich · Karsiborska · Kołłątaja · Kościuszki · Kujawska · Lechicka · Lutycka · Łużycka · Poznańska · Rybaki · Staszica · Steyera · Wilków Morskich · Witosa
+          </div>
+          <div class="cal-btns">
+            <a href="#" class="cal-btn green">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="4" width="18" height="18" rx="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>
+              Pobierz kalendarz (.ics)
+            </a>
+          </div>
+        </div>
+      </div>
+
+      <!-- REJON 3 -->
+      <div class="rejon-card">
+        <div class="rejon-header">
+          <div>
+            <div class="rejon-name">Rejon 3</div>
+          </div>
+          <span style="font-size:1.6rem">3️⃣</span>
+        </div>
+        <div class="rejon-body">
+          <div class="streets">
+            <strong>Ulice</strong>
+            Bałtycka 10–11 · Bema · Bursztynowa · Chełmońskiego · Chodorowskiej · Graniczna · Herberta · K. Miarki · Kochanowskiego · Konst. 3 Maja · Malczewskiego · Matejki · Moniuszki · Niedziałkowskiego · Roosevelta · Teligi · Woj. Polskiego · Wyspiańskiego
+          </div>
+          <div class="cal-btns">
+            <a href="#" class="cal-btn green">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="4" width="18" height="18" rx="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>
+              Pobierz kalendarz (.ics)
+            </a>
+          </div>
+        </div>
+      </div>
+
+      <!-- REJON 4 -->
+      <div class="rejon-card">
+        <div class="rejon-header">
+          <div>
+            <div class="rejon-name">Rejon 4</div>
+          </div>
+          <span style="font-size:1.6rem">4️⃣</span>
+        </div>
+        <div class="rejon-body">
+          <div class="streets">
+            <strong>Ulice</strong>
+            Bogusławskiego · Chopina · Hołdu Pruskiego · Kapitańska · Komandorska · Konopnickiej · Krzywoustego · Narutowicza · Nowowiejskiego · Paderewskiego · Piastowska · Piłsudskiego · Reja · Sienkiewicza · Sikorskiego · Słowackiego · Wyszyńskiego
+          </div>
+          <div class="cal-btns">
+            <a href="#" class="cal-btn green">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="4" width="18" height="18" rx="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>
+              Pobierz kalendarz (.ics)
+            </a>
+          </div>
+        </div>
+      </div>
+
+      <!-- REJON 5 -->
+      <div class="rejon-card">
+        <div class="rejon-header">
+          <div>
+            <div class="rejon-name">Rejon 5</div>
+          </div>
+          <span style="font-size:1.6rem">5️⃣</span>
+        </div>
+        <div class="rejon-body">
+          <div class="streets">
+            <strong>Ulice</strong>
+            Ar. Krajowej · Boh. Września · Bol. Chrobrego · Jana z Kolna · Marynarzy · Mieszka I · Monte Cassino · Pl. Słowiański · Pl. Wolności · Wyb. Wład. IV · Zdrojowa · Żeromskiego 5
+          </div>
+          <div class="cal-btns">
+            <a href="#" class="cal-btn green">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="4" width="18" height="18" rx="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>
+              Pobierz kalendarz (.ics)
+            </a>
+          </div>
+        </div>
+      </div>
+
+      <!-- REJON 6 -->
+      <div class="rejon-card alt">
+        <div class="rejon-header">
+          <div>
+            <div class="rejon-name" style="color:#1b6ca8">Rejon 6</div>
+            <div class="rejon-area">Warszów</div>
+          </div>
+          <span style="font-size:1.6rem">6️⃣</span>
+        </div>
+        <div class="rejon-body">
+          <div class="streets">
+            <strong>Ulice</strong>
+            Barlickiego · Bunkrowa · Fińska · Holenderska · Jaracza · Ludzi Morza · Modrzejewska · Niecała · Norweska · Okólna · Porębskiego · Sosnowa · Węgierska
+          </div>
+          <div class="cal-btns">
+            <a href="#" class="cal-btn blue">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="4" width="18" height="18" rx="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>
+              Pobierz kalendarz (.ics)
+            </a>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- JAK ZAIMPORTOWAĆ -->
+  <div class="section">
+    <h2 class="section-title"><span class="icon">📲</span> Jak zaimportować plik .ics?</h2>
+    <table class="info-table">
+      <tr>
+        <th>Aplikacja</th>
+        <th>Sposób importu</th>
+      </tr>
+      <tr><td><strong>Google Calendar</strong></td><td>Otwórz calendar.google.com → Ustawienia (⚙️) → Importuj → wybierz plik .ics</td></tr>
+      <tr><td><strong>Apple Calendar (Mac)</strong></td><td>Menu Plik → Importuj → wybierz plik .ics</td></tr>
+      <tr><td><strong>Apple Calendar (iPhone/iPad)</strong></td><td>Wyślij plik na e-mail lub AirDrop → otwórz w Kalendarzu</td></tr>
+      <tr><td><strong>Outlook (desktop)</strong></td><td>Plik → Otwórz i eksportuj → Importuj/Eksportuj → Importuj plik iCalendar</td></tr>
+      <tr><td><strong>Outlook (web)</strong></td><td>Otwórz outlook.live.com → Dodaj kalendarz → Prześlij z pliku → wybierz .ics</td></tr>
+      <tr><td><strong>Thunderbird</strong></td><td>Zakładka Kalendarz → Plik → Importuj → wybierz plik .ics</td></tr>
+    </table>
+    <p style="font-size:13px; color:var(--muted); margin-top:12px;">💡 Po jednorazowym imporcie wszystkie terminy pojawią się w Twoim kalendarzu – nie musisz nic aktualizować przez cały 2026 rok.</p>
+  </div>
+
+</main>
+
+<footer>
+  <p>Dane źródłowe: <a href="https://www.swinoujscie.pl/artykul/114-12305-harmonogramy-odbioru-odpadow-komunalnych-w-2026-roku">Harmonogramy odbioru odpadów komunalnych w 2026 roku – swinoujscie.pl</a></p>
+  <p style="margin-top:6px;">Pliki wygenerowane przy pomocy sztucznej inteligencji · Zawsze sprawdzaj aktualne harmonogramy na stronie urzędu miasta.</p>
+</footer>
+
+</body>
+</html>

@@ -1,0 +1,128 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Harmonogram Odpadów Świnoujście//PL
+X-WR-CALNAME:Odpady REJON 6 2026
+X-WR-TIMEZONE:Europe/Warsaw
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:601ea28f-8aba-4d20-b43e-de1c74d5b2da
+DTSTAMP:20260305T084023Z
+DTSTART;VALUE=DATE:20260122
+DTEND;VALUE=DATE:20260122
+SUMMARY:🛋️ Gabaryty i RTV/AGD
+DESCRIPTION:Odbiór odpadów wielkogabarytowych oraz sprzętu RTV i AGD. Odpady wystawić dzień wcześniej lub najpóźniej do godz. 6:00 w dniu wywozu.
+END:VEVENT
+BEGIN:VEVENT
+UID:9a155c1e-35f8-497c-bbe8-0c5f15c67a42
+DTSTAMP:20260305T084023Z
+DTSTART;VALUE=DATE:20260219
+DTEND;VALUE=DATE:20260219
+SUMMARY:🛋️ Gabaryty i RTV/AGD
+DESCRIPTION:Odbiór odpadów wielkogabarytowych oraz sprzętu RTV i AGD. Odpady wystawić dzień wcześniej lub najpóźniej do godz. 6:00 w dniu wywozu.
+END:VEVENT
+BEGIN:VEVENT
+UID:a98a06e2-86f2-4fbd-9403-0b91101ad39c
+DTSTAMP:20260305T084023Z
+DTSTART;VALUE=DATE:20260319
+DTEND;VALUE=DATE:20260319
+SUMMARY:🛋️ Gabaryty i RTV/AGD
+DESCRIPTION:Odbiór odpadów wielkogabarytowych oraz sprzętu RTV i AGD. Odpady wystawić dzień wcześniej lub najpóźniej do godz. 6:00 w dniu wywozu.
+END:VEVENT
+BEGIN:VEVENT
+UID:4e9699f9-f9a8-449e-9514-fb1888191330
+DTSTAMP:20260305T084023Z
+DTSTART;VALUE=DATE:20260416
+DTEND;VALUE=DATE:20260416
+SUMMARY:🛋️ Gabaryty i RTV/AGD
+DESCRIPTION:Odbiór odpadów wielkogabarytowych oraz sprzętu RTV i AGD. Odpady wystawić dzień wcześniej lub najpóźniej do godz. 6:00 w dniu wywozu.
+END:VEVENT
+BEGIN:VEVENT
+UID:f8f261e0-bfdb-463f-9fd8-20f5b2e977c1
+DTSTAMP:20260305T084023Z
+DTSTART;VALUE=DATE:20260514
+DTEND;VALUE=DATE:20260514
+SUMMARY:🛋️ Gabaryty i RTV/AGD
+DESCRIPTION:Odbiór odpadów wielkogabarytowych oraz sprzętu RTV i AGD. Odpady wystawić dzień wcześniej lub najpóźniej do godz. 6:00 w dniu wywozu.
+END:VEVENT
+BEGIN:VEVENT
+UID:8938c701-6bfc-4650-baa5-f34165d9d39d
+DTSTAMP:20260305T084023Z
+DTSTART;VALUE=DATE:20260611
+DTEND;VALUE=DATE:20260611
+SUMMARY:🛋️ Gabaryty i RTV/AGD
+DESCRIPTION:Odbiór odpadów wielkogabarytowych oraz sprzętu RTV i AGD. Odpady wystawić dzień wcześniej lub najpóźniej do godz. 6:00 w dniu wywozu.
+END:VEVENT
+BEGIN:VEVENT
+UID:2f296ffd-b92f-4497-831e-0c66b2119ed9
+DTSTAMP:20260305T084023Z
+DTSTART;VALUE=DATE:20260709
+DTEND;VALUE=DATE:20260709
+SUMMARY:🛋️ Gabaryty i RTV/AGD
+DESCRIPTION:Odbiór odpadów wielkogabarytowych oraz sprzętu RTV i AGD. Odpady wystawić dzień wcześniej lub najpóźniej do godz. 6:00 w dniu wywozu.
+END:VEVENT
+BEGIN:VEVENT
+UID:2bfdb2ee-971b-4569-8078-278891ba57c7
+DTSTAMP:20260305T084023Z
+DTSTART;VALUE=DATE:20260806
+DTEND;VALUE=DATE:20260806
+SUMMARY:🛋️ Gabaryty i RTV/AGD
+DESCRIPTION:Odbiór odpadów wielkogabarytowych oraz sprzętu RTV i AGD. Odpady wystawić dzień wcześniej lub najpóźniej do godz. 6:00 w dniu wywozu.
+END:VEVENT
+BEGIN:VEVENT
+UID:a41cb72f-c5d8-4f53-9b5a-2cdc4038ed1b
+DTSTAMP:20260305T084023Z
+DTSTART;VALUE=DATE:20260903
+DTEND;VALUE=DATE:20260903
+SUMMARY:🛋️ Gabaryty i RTV/AGD
+DESCRIPTION:Odbiór odpadów wielkogabarytowych oraz sprzętu RTV i AGD. Odpady wystawić dzień wcześniej lub najpóźniej do godz. 6:00 w dniu wywozu.
+END:VEVENT
+BEGIN:VEVENT
+UID:880ab1c5-3ab1-42cc-bffa-23d6ea4f1fa6
+DTSTAMP:20260305T084023Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261001
+SUMMARY:🛋️ Gabaryty i RTV/AGD
+DESCRIPTION:Odbiór odpadów wielkogabarytowych oraz sprzętu RTV i AGD. Odpady wystawić dzień wcześniej lub najpóźniej do godz. 6:00 w dniu wywozu.
+END:VEVENT
+BEGIN:VEVENT
+UID:f626f7b3-f3c7-41a5-9bd7-9f19167b3ee3
+DTSTAMP:20260305T084023Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261029
+SUMMARY:🛋️ Gabaryty i RTV/AGD
+DESCRIPTION:Odbiór odpadów wielkogabarytowych oraz sprzętu RTV i AGD. Odpady wystawić dzień wcześniej lub najpóźniej do godz. 6:00 w dniu wywozu.
+END:VEVENT
+BEGIN:VEVENT
+UID:2e23225f-c76e-4719-a8aa-478b24d2886f
+DTSTAMP:20260305T084023Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261126
+SUMMARY:🛋️ Gabaryty i RTV/AGD
+DESCRIPTION:Odbiór odpadów wielkogabarytowych oraz sprzętu RTV i AGD. Odpady wystawić dzień wcześniej lub najpóźniej do godz. 6:00 w dniu wywozu.
+END:VEVENT
+BEGIN:VEVENT
+UID:6e504f4e-6d6a-4e38-b11e-788d7774f297
+DTSTAMP:20260305T084023Z
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261223
+SUMMARY:🛋️ Gabaryty i RTV/AGD
+DESCRIPTION:Odbiór odpadów wielkogabarytowych oraz sprzętu RTV i AGD. Odpady wystawić dzień wcześniej lub najpóźniej do godz. 6:00 w dniu wywozu.
+END:VEVENT
+BEGIN:VEVENT
+UID:7e8dbba4-1557-4fb8-8812-32df6444e96d
+DTSTAMP:20260305T084023Z
+DTSTART;VALUE=DATE:20260119
+DTEND;VALUE=DATE:20260119
+SUMMARY:🎄 Odbiór choinek
+DESCRIPTION:Odbiór choinek. Odpady wystawić najpóźniej w dniu wywozu do godz. 6:00.
+END:VEVENT
+BEGIN:VEVENT
+UID:0712c3c7-e110-46ad-8a86-7b0441432b16
+DTSTAMP:20260305T084023Z
+DTSTART;VALUE=DATE:20260202
+DTEND;VALUE=DATE:20260202
+SUMMARY:🎄 Odbiór choinek
+DESCRIPTION:Odbiór choinek. Odpady wystawić najpóźniej w dniu wywozu do godz. 6:00.
+END:VEVENT
+END:VCALENDAR

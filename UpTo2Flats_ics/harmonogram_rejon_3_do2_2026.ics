@@ -1,0 +1,2632 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Harmonogram Odpadów Świnoujście do 2 lokali//PL
+X-WR-CALNAME:Odpady REJON 3 (do 2 lokali) 2026
+X-WR-TIMEZONE:Europe/Warsaw
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:da7d8240-de63-4cbf-8251-c79cf2d69279
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20260101
+SUMMARY:🗑️ Odpady zmieszane (czwartek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:568c12ea-66e2-4940-8a1a-26db4ff630af
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260102
+DTEND;VALUE=DATE:20260102
+SUMMARY:🗑️ Odpady zmieszane (piątek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:31f47b34-46c2-49cc-898d-53e3735edc13
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260105
+DTEND;VALUE=DATE:20260105
+SUMMARY:🗑️ Odpady zmieszane (poniedziałek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:e346ec54-b673-4e84-9a93-a5825a8e8976
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260106
+DTEND;VALUE=DATE:20260106
+SUMMARY:🗑️ Odpady zmieszane (wtorek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:216dc05d-c378-4628-a6a4-b22272b6a1fb
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260107
+DTEND;VALUE=DATE:20260107
+SUMMARY:🗑️ Odpady zmieszane (środa)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:189b3730-3938-4dfb-a161-8f305f285244
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260108
+DTEND;VALUE=DATE:20260108
+SUMMARY:🟡 Plastik i metal
+DESCRIPTION:Odbiór plastiku i metalu (odpady selektywne)
+END:VEVENT
+BEGIN:VEVENT
+UID:ad181f1f-fcc7-49a0-90e6-d189eb6e56ad
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260108
+DTEND;VALUE=DATE:20260108
+SUMMARY:🗑️ Odpady zmieszane (czwartek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:810c2915-02f2-4a9f-8372-3c926e24bf3f
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260109
+DTEND;VALUE=DATE:20260109
+SUMMARY:🎄 Odbiór choinek
+DESCRIPTION:Odbiór choinek. Odpady wystawić najpóźniej w dniu wywozu do godz. 6:00.
+END:VEVENT
+BEGIN:VEVENT
+UID:7814c15c-0635-4bad-a033-863f9ebe96be
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260109
+DTEND;VALUE=DATE:20260109
+SUMMARY:🗑️ Odpady zmieszane (piątek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:d3aac658-d9e9-49d5-a95e-9998b54a783e
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260112
+DTEND;VALUE=DATE:20260112
+SUMMARY:🗑️ Odpady zmieszane (poniedziałek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:907d1d41-407b-46d5-9390-bedd89f81ed3
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260113
+DTEND;VALUE=DATE:20260113
+SUMMARY:🗑️ Odpady zmieszane (wtorek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:b22aaf7f-4ae3-4327-9439-059893f6a72e
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260114
+DTEND;VALUE=DATE:20260114
+SUMMARY:🗑️ Odpady zmieszane (środa)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:63537bec-9bca-41f0-8836-5cec2d9db8ac
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260115
+DTEND;VALUE=DATE:20260115
+SUMMARY:🗑️ Odpady zmieszane (czwartek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:bba9f79b-2fce-4af3-a94a-174634223324
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260116
+DTEND;VALUE=DATE:20260116
+SUMMARY:🗑️ Odpady zmieszane (piątek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:78914584-c251-4bd1-8d5b-f9b5f2823b2b
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260119
+DTEND;VALUE=DATE:20260119
+SUMMARY:🗑️ Odpady zmieszane (poniedziałek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:faab9a0c-e916-4534-99f7-c3f12632454d
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260120
+DTEND;VALUE=DATE:20260120
+SUMMARY:🗑️ Odpady zmieszane (wtorek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:fe735ea6-32e9-41d3-9410-61012cc609d1
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260121
+DTEND;VALUE=DATE:20260121
+SUMMARY:🗑️ Odpady zmieszane (środa)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:01d6795e-8233-4357-9f28-0f84888acc70
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260122
+DTEND;VALUE=DATE:20260122
+SUMMARY:🟤 Bioodpady
+DESCRIPTION:Odbiór bioodpadów (odpady selektywne - BIO)
+END:VEVENT
+BEGIN:VEVENT
+UID:c26150f7-31b0-47f4-85d2-eaef95a26ba4
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260122
+DTEND;VALUE=DATE:20260122
+SUMMARY:🟢 Szkło
+DESCRIPTION:Odbiór szkła (odpady selektywne)
+END:VEVENT
+BEGIN:VEVENT
+UID:758aee47-9625-4073-b6c0-1cc51025fdca
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260122
+DTEND;VALUE=DATE:20260122
+SUMMARY:📦 Papier
+DESCRIPTION:Odbiór papieru (odpady selektywne)
+END:VEVENT
+BEGIN:VEVENT
+UID:6cecc502-942c-4dac-8614-779dfbb04273
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260122
+DTEND;VALUE=DATE:20260122
+SUMMARY:🎄 Odbiór choinek
+DESCRIPTION:Odbiór choinek. Odpady wystawić najpóźniej w dniu wywozu do godz. 6:00.
+END:VEVENT
+BEGIN:VEVENT
+UID:b1fb87a9-8ccc-4fde-bbbf-1c3e0d43e453
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260122
+DTEND;VALUE=DATE:20260122
+SUMMARY:🗑️ Odpady zmieszane (czwartek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:ec917ec8-728e-4c38-a804-e4fe151a8c45
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260123
+DTEND;VALUE=DATE:20260123
+SUMMARY:🗑️ Odpady zmieszane (piątek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:fa616c66-b779-4398-bff5-5fc98f4ac54c
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260126
+DTEND;VALUE=DATE:20260126
+SUMMARY:🗑️ Odpady zmieszane (poniedziałek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:c7bd9292-8d1d-4d25-ac03-0e1bb8f00e2f
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260127
+DTEND;VALUE=DATE:20260127
+SUMMARY:🗑️ Odpady zmieszane (wtorek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:56313b26-5abe-4b65-8bc1-4511fe29ed7c
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260128
+DTEND;VALUE=DATE:20260128
+SUMMARY:🗑️ Odpady zmieszane (środa)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:0bf42d04-c1b5-430e-9e0a-d858b464328d
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260129
+DTEND;VALUE=DATE:20260129
+SUMMARY:🗑️ Odpady zmieszane (czwartek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:7f586501-cbba-48e1-853b-7dab92ad4ae8
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260130
+DTEND;VALUE=DATE:20260130
+SUMMARY:🗑️ Odpady zmieszane (piątek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:049b4e71-ca24-4fd7-b5d6-5ba6f343872d
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260202
+DTEND;VALUE=DATE:20260202
+SUMMARY:🗑️ Odpady zmieszane (poniedziałek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:d3480e4c-0690-4257-967b-3168c45a0c08
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260203
+DTEND;VALUE=DATE:20260203
+SUMMARY:🗑️ Odpady zmieszane (wtorek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:fad00237-2caf-4a1f-aeb0-3c26b9ecdfc6
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260204
+DTEND;VALUE=DATE:20260204
+SUMMARY:🗑️ Odpady zmieszane (środa)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:ab2606cd-4154-4145-9b8c-a3d401557deb
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260205
+DTEND;VALUE=DATE:20260205
+SUMMARY:🟡 Plastik i metal
+DESCRIPTION:Odbiór plastiku i metalu (odpady selektywne)
+END:VEVENT
+BEGIN:VEVENT
+UID:363b89f8-177f-45b4-95cd-2ab6a9b40eec
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260205
+DTEND;VALUE=DATE:20260205
+SUMMARY:🛋️ Gabaryty i RTV/AGD
+DESCRIPTION:Odbiór odpadów wielkogabarytowych oraz sprzętu RTV i AGD. Odpady wystawić najpóźniej w dniu wywozu do godz. 6:00.
+END:VEVENT
+BEGIN:VEVENT
+UID:e9e605af-d88a-4d2a-9916-5639fc47a130
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260205
+DTEND;VALUE=DATE:20260205
+SUMMARY:🗑️ Odpady zmieszane (czwartek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:549df9c2-1b87-4c0c-9e9b-72f566b35c2e
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260206
+DTEND;VALUE=DATE:20260206
+SUMMARY:🗑️ Odpady zmieszane (piątek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:1ad8f72b-9be8-4528-b1cd-acd44dc1dc1f
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260209
+DTEND;VALUE=DATE:20260209
+SUMMARY:🗑️ Odpady zmieszane (poniedziałek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:74bf024d-c3c1-4f7c-a9a7-8c6d67888d81
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260210
+DTEND;VALUE=DATE:20260210
+SUMMARY:🗑️ Odpady zmieszane (wtorek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:60da0a8d-a5b6-4a1e-9e28-75c4ed27136c
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260211
+DTEND;VALUE=DATE:20260211
+SUMMARY:🗑️ Odpady zmieszane (środa)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:2f1314b4-0846-4fe5-b97c-5fb6dca59d02
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260212
+DTEND;VALUE=DATE:20260212
+SUMMARY:🗑️ Odpady zmieszane (czwartek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:44b49592-cb9e-404a-865e-8bfb30a99a5d
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260213
+DTEND;VALUE=DATE:20260213
+SUMMARY:🗑️ Odpady zmieszane (piątek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:423a6138-1e30-4f57-880d-9f88a741e961
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260216
+DTEND;VALUE=DATE:20260216
+SUMMARY:🗑️ Odpady zmieszane (poniedziałek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:f0f3f577-f877-4d8a-a028-8e6ade067dc3
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260217
+DTEND;VALUE=DATE:20260217
+SUMMARY:🗑️ Odpady zmieszane (wtorek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:252e457d-fc99-4a3c-b7b0-3ce098377917
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260218
+DTEND;VALUE=DATE:20260218
+SUMMARY:🗑️ Odpady zmieszane (środa)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:b6b4aca2-5eb1-4cb3-9066-075fbd43ad3b
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260219
+DTEND;VALUE=DATE:20260219
+SUMMARY:🟤 Bioodpady
+DESCRIPTION:Odbiór bioodpadów (odpady selektywne - BIO)
+END:VEVENT
+BEGIN:VEVENT
+UID:a0d029e3-d326-4f6d-9e2b-06f3ef69baba
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260219
+DTEND;VALUE=DATE:20260219
+SUMMARY:🗑️ Odpady zmieszane (czwartek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:8f28b384-8ee3-4152-b1cc-264630167ae8
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260220
+DTEND;VALUE=DATE:20260220
+SUMMARY:🗑️ Odpady zmieszane (piątek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:0c306bcf-bc17-455e-83bb-1b0d46946be3
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260223
+DTEND;VALUE=DATE:20260223
+SUMMARY:🗑️ Odpady zmieszane (poniedziałek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:420ce177-dca4-4197-9d7b-327dff237fb7
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260224
+DTEND;VALUE=DATE:20260224
+SUMMARY:🗑️ Odpady zmieszane (wtorek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:54f474c7-e101-4351-a913-51d08482b541
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260225
+DTEND;VALUE=DATE:20260225
+SUMMARY:🗑️ Odpady zmieszane (środa)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:d97c4a5a-1f73-4453-aee8-7e27d33d3ad4
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260226
+DTEND;VALUE=DATE:20260226
+SUMMARY:🗑️ Odpady zmieszane (czwartek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:8bdf4fcf-19db-48e1-8239-1f3e845b52c2
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260227
+DTEND;VALUE=DATE:20260227
+SUMMARY:🗑️ Odpady zmieszane (piątek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:ef082ac4-d64c-4165-8236-f77e2027aaf2
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260302
+DTEND;VALUE=DATE:20260302
+SUMMARY:🗑️ Odpady zmieszane (poniedziałek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:f924994a-a927-4645-aacb-da8fbbafee3b
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260303
+DTEND;VALUE=DATE:20260303
+SUMMARY:🗑️ Odpady zmieszane (wtorek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:c5e841ab-f3c6-4a03-8525-17a48897e7ea
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260304
+DTEND;VALUE=DATE:20260304
+SUMMARY:🗑️ Odpady zmieszane (środa)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:6c678f97-1463-407b-9ed2-49fa7be00015
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260305
+DTEND;VALUE=DATE:20260305
+SUMMARY:🟤 Bioodpady
+DESCRIPTION:Odbiór bioodpadów (odpady selektywne - BIO)
+END:VEVENT
+BEGIN:VEVENT
+UID:6aa931e3-d450-4c69-a769-90207d2d8a43
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260305
+DTEND;VALUE=DATE:20260305
+SUMMARY:🟡 Plastik i metal
+DESCRIPTION:Odbiór plastiku i metalu (odpady selektywne)
+END:VEVENT
+BEGIN:VEVENT
+UID:627fced9-638a-4889-bb54-e9a161e35c17
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260305
+DTEND;VALUE=DATE:20260305
+SUMMARY:📦 Papier
+DESCRIPTION:Odbiór papieru (odpady selektywne)
+END:VEVENT
+BEGIN:VEVENT
+UID:9cf24f49-124f-4d87-b26f-878aeb0f052f
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260305
+DTEND;VALUE=DATE:20260305
+SUMMARY:🗑️ Odpady zmieszane (czwartek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:a75f07e5-7ad8-48a9-95ce-5684495e1a0d
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260306
+DTEND;VALUE=DATE:20260306
+SUMMARY:🗑️ Odpady zmieszane (piątek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:573e2572-bf07-4009-bd45-7d6bf64bff32
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260309
+DTEND;VALUE=DATE:20260309
+SUMMARY:🗑️ Odpady zmieszane (poniedziałek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:f8107cbc-d160-4ab6-89a0-ad0ebad823d6
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260310
+DTEND;VALUE=DATE:20260310
+SUMMARY:🗑️ Odpady zmieszane (wtorek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:0b6e079a-568f-41fa-90ab-ef3b924e11ee
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260311
+DTEND;VALUE=DATE:20260311
+SUMMARY:🗑️ Odpady zmieszane (środa)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:ae29431c-167a-4686-8a23-4b3d1bb99a73
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260312
+DTEND;VALUE=DATE:20260312
+SUMMARY:🗑️ Odpady zmieszane (czwartek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:a2e51efd-286d-46bc-8f1b-37ed160f988d
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260313
+DTEND;VALUE=DATE:20260313
+SUMMARY:🗑️ Odpady zmieszane (piątek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:954bd65d-2766-43b4-b839-7e39adeee0db
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260316
+DTEND;VALUE=DATE:20260316
+SUMMARY:🗑️ Odpady zmieszane (poniedziałek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:3eca7f57-5006-476e-ae5e-bafe2b9141e9
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260317
+DTEND;VALUE=DATE:20260317
+SUMMARY:🗑️ Odpady zmieszane (wtorek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:33103a6e-8522-465f-a1cb-374b69a49235
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260318
+DTEND;VALUE=DATE:20260318
+SUMMARY:🗑️ Odpady zmieszane (środa)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:4010adf0-5aca-4276-bfb8-6dcea3a27ef0
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260319
+DTEND;VALUE=DATE:20260319
+SUMMARY:🟤 Bioodpady
+DESCRIPTION:Odbiór bioodpadów (odpady selektywne - BIO)
+END:VEVENT
+BEGIN:VEVENT
+UID:6cdbb874-2214-4e97-b22f-387f3f7a34eb
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260319
+DTEND;VALUE=DATE:20260319
+SUMMARY:🟢 Szkło
+DESCRIPTION:Odbiór szkła (odpady selektywne)
+END:VEVENT
+BEGIN:VEVENT
+UID:c676c577-25ef-48d1-bd30-c7e61637f0ee
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260319
+DTEND;VALUE=DATE:20260319
+SUMMARY:🗑️ Odpady zmieszane (czwartek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:67238cc3-7e35-4628-aa5b-7acf2f32771b
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260320
+DTEND;VALUE=DATE:20260320
+SUMMARY:🗑️ Odpady zmieszane (piątek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:3b91e2bc-74b5-4cbf-8356-355e74b73ec3
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260323
+DTEND;VALUE=DATE:20260323
+SUMMARY:🗑️ Odpady zmieszane (poniedziałek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:3187dfa6-61f7-49a2-b80f-6b0eb2bea84e
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260324
+DTEND;VALUE=DATE:20260324
+SUMMARY:🗑️ Odpady zmieszane (wtorek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:c925c255-5ae5-4b0f-ab7e-cd354cab270f
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260325
+DTEND;VALUE=DATE:20260325
+SUMMARY:🗑️ Odpady zmieszane (środa)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:04fa46a9-708b-40b1-9047-29d181994934
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260326
+DTEND;VALUE=DATE:20260326
+SUMMARY:🗑️ Odpady zmieszane (czwartek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:e63b2638-5d6d-4916-b9d2-e274f905324e
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260327
+DTEND;VALUE=DATE:20260327
+SUMMARY:🗑️ Odpady zmieszane (piątek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:c66f0cc6-20fc-4692-9cd1-255a36b73051
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260330
+DTEND;VALUE=DATE:20260330
+SUMMARY:🗑️ Odpady zmieszane (poniedziałek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:27351c58-99ef-478b-b114-6760cb1d9903
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260331
+DTEND;VALUE=DATE:20260331
+SUMMARY:🗑️ Odpady zmieszane (wtorek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:4aa0987c-610e-4327-b621-70a8ecd972fb
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260401
+DTEND;VALUE=DATE:20260401
+SUMMARY:🗑️ Odpady zmieszane (środa)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:6b6a692c-004c-4a5c-8ae0-4ba477e897e8
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260402
+DTEND;VALUE=DATE:20260402
+SUMMARY:🟤 Bioodpady
+DESCRIPTION:Odbiór bioodpadów (odpady selektywne - BIO)
+END:VEVENT
+BEGIN:VEVENT
+UID:31613f36-465d-441b-ae7c-655c445481a9
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260402
+DTEND;VALUE=DATE:20260402
+SUMMARY:🟡 Plastik i metal
+DESCRIPTION:Odbiór plastiku i metalu (odpady selektywne)
+END:VEVENT
+BEGIN:VEVENT
+UID:b12b0325-d8be-4739-91e9-2f10bdde3aea
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260402
+DTEND;VALUE=DATE:20260402
+SUMMARY:🗑️ Odpady zmieszane (czwartek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:4888cd78-4060-422d-bd45-89962ee3eb28
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260403
+DTEND;VALUE=DATE:20260403
+SUMMARY:🗑️ Odpady zmieszane (piątek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:1a5756fe-5a06-4330-a504-ec4b91f3008f
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260406
+DTEND;VALUE=DATE:20260406
+SUMMARY:🗑️ Odpady zmieszane (poniedziałek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:8a68c14b-279e-4168-b331-e07a750ce3c6
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260407
+DTEND;VALUE=DATE:20260407
+SUMMARY:🗑️ Odpady zmieszane (wtorek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:b4486dbe-3c34-4f57-a6dc-e459c11c59fb
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260408
+DTEND;VALUE=DATE:20260408
+SUMMARY:🗑️ Odpady zmieszane (środa)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:e9bc42ad-c3e1-41ea-a8e3-0d5fd351e81f
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260409
+DTEND;VALUE=DATE:20260409
+SUMMARY:🗑️ Odpady zmieszane (czwartek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:97a0fbe3-ea64-43a4-96bb-c33b93284adb
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260410
+DTEND;VALUE=DATE:20260410
+SUMMARY:🗑️ Odpady zmieszane (piątek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:e866c09a-9b35-4cbf-b2f7-d337c672150b
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260413
+DTEND;VALUE=DATE:20260413
+SUMMARY:🗑️ Odpady zmieszane (poniedziałek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:93890533-f45b-4a55-9c75-43b45f8df9c4
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260414
+DTEND;VALUE=DATE:20260414
+SUMMARY:🗑️ Odpady zmieszane (wtorek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:2390e81e-19b1-4feb-8a26-894b0383d82e
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260415
+DTEND;VALUE=DATE:20260415
+SUMMARY:🗑️ Odpady zmieszane (środa)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:bfadcf5c-db37-403e-ace0-09ee35e25cbd
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260416
+DTEND;VALUE=DATE:20260416
+SUMMARY:🟤 Bioodpady
+DESCRIPTION:Odbiór bioodpadów (odpady selektywne - BIO)
+END:VEVENT
+BEGIN:VEVENT
+UID:6ad2811b-5d4f-4572-8c22-a9753996abf5
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260416
+DTEND;VALUE=DATE:20260416
+SUMMARY:🟡 Plastik i metal
+DESCRIPTION:Odbiór plastiku i metalu (odpady selektywne)
+END:VEVENT
+BEGIN:VEVENT
+UID:fecfc72a-a46b-41a3-80d0-df929c6a9566
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260416
+DTEND;VALUE=DATE:20260416
+SUMMARY:🟢 Szkło
+DESCRIPTION:Odbiór szkła (odpady selektywne)
+END:VEVENT
+BEGIN:VEVENT
+UID:4dec9a3c-74c6-4a0d-b34a-c1442fcab06a
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260416
+DTEND;VALUE=DATE:20260416
+SUMMARY:📦 Papier
+DESCRIPTION:Odbiór papieru (odpady selektywne)
+END:VEVENT
+BEGIN:VEVENT
+UID:c69fb162-cc66-4710-93d4-7f99085afeeb
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260416
+DTEND;VALUE=DATE:20260416
+SUMMARY:🗑️ Odpady zmieszane (czwartek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:edf5e29c-cab0-4dd1-854e-533b75914f21
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260417
+DTEND;VALUE=DATE:20260417
+SUMMARY:🗑️ Odpady zmieszane (piątek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:6736aa0e-532d-4244-be5e-e9cbf8b2adbf
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260420
+DTEND;VALUE=DATE:20260420
+SUMMARY:🗑️ Odpady zmieszane (poniedziałek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:626ea7e3-fa47-4cbc-b5c1-fe856c3b80d9
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260421
+DTEND;VALUE=DATE:20260421
+SUMMARY:🗑️ Odpady zmieszane (wtorek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:aca0dc0a-a74a-4a16-9b3f-6a458c800d01
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260422
+DTEND;VALUE=DATE:20260422
+SUMMARY:🗑️ Odpady zmieszane (środa)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:71b169d6-653a-423d-9a0f-72973bc87135
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260423
+DTEND;VALUE=DATE:20260423
+SUMMARY:🗑️ Odpady zmieszane (czwartek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:2379761b-ddb6-4c79-b4fe-8b9e3b328997
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260424
+DTEND;VALUE=DATE:20260424
+SUMMARY:🗑️ Odpady zmieszane (piątek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:e2484f64-0c08-4540-bd0a-11ded7a7886c
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260427
+DTEND;VALUE=DATE:20260427
+SUMMARY:🗑️ Odpady zmieszane (poniedziałek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:ee0d7790-bad8-4713-b162-e33c86aa0bc2
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260428
+DTEND;VALUE=DATE:20260428
+SUMMARY:🗑️ Odpady zmieszane (wtorek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:7f6c5a26-111f-4645-97cf-759098d4226e
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260429
+DTEND;VALUE=DATE:20260429
+SUMMARY:🟤 Bioodpady
+DESCRIPTION:Odbiór bioodpadów (odpady selektywne - BIO)
+END:VEVENT
+BEGIN:VEVENT
+UID:d6f61558-190a-4710-a225-307fbff4973e
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260429
+DTEND;VALUE=DATE:20260429
+SUMMARY:🟡 Plastik i metal
+DESCRIPTION:Odbiór plastiku i metalu (odpady selektywne)
+END:VEVENT
+BEGIN:VEVENT
+UID:8bb11601-47d5-495e-97aa-4b4c420d7034
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260429
+DTEND;VALUE=DATE:20260429
+SUMMARY:🗑️ Odpady zmieszane (środa)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:9c6af202-3e87-4ebe-905e-2356b79ef878
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260430
+DTEND;VALUE=DATE:20260430
+SUMMARY:🛋️ Gabaryty i RTV/AGD
+DESCRIPTION:Odbiór odpadów wielkogabarytowych oraz sprzętu RTV i AGD. Odpady wystawić najpóźniej w dniu wywozu do godz. 6:00.
+END:VEVENT
+BEGIN:VEVENT
+UID:3e3bf02c-614e-4b36-a1aa-ad7e4c819299
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260430
+DTEND;VALUE=DATE:20260430
+SUMMARY:🗑️ Odpady zmieszane (czwartek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:a35f39c9-6832-4bea-b31b-3951d97563fe
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260501
+SUMMARY:🗑️ Odpady zmieszane (piątek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:5042f4ff-f4d0-4b1d-bfb5-30c8e3003534
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260504
+DTEND;VALUE=DATE:20260504
+SUMMARY:🗑️ Odpady zmieszane (poniedziałek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:1cc1373f-35ea-4da7-80c7-0a0e0bccc048
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260505
+DTEND;VALUE=DATE:20260505
+SUMMARY:🗑️ Odpady zmieszane (wtorek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:aa9fb553-59c7-47f3-90e5-61da05e068b4
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260506
+DTEND;VALUE=DATE:20260506
+SUMMARY:🗑️ Odpady zmieszane (środa)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:e698957b-8e6d-4685-a42b-b88735a70071
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260507
+DTEND;VALUE=DATE:20260507
+SUMMARY:🗑️ Odpady zmieszane (czwartek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:e07f4210-aad0-44f5-8406-034535de8b60
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260508
+DTEND;VALUE=DATE:20260508
+SUMMARY:🗑️ Odpady zmieszane (piątek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:61b178bd-e968-4e92-9299-40af3018dce3
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260511
+DTEND;VALUE=DATE:20260511
+SUMMARY:🗑️ Odpady zmieszane (poniedziałek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:b43e453c-8f05-4f1e-a623-238c2ff62e95
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260512
+DTEND;VALUE=DATE:20260512
+SUMMARY:🗑️ Odpady zmieszane (wtorek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:ef09f4a5-e8e8-4f2e-96de-c30e77a429e9
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260513
+DTEND;VALUE=DATE:20260513
+SUMMARY:🗑️ Odpady zmieszane (środa)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:0ce026c7-c2b5-44a0-bc68-1f521b4ebec4
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260514
+DTEND;VALUE=DATE:20260514
+SUMMARY:🟤 Bioodpady
+DESCRIPTION:Odbiór bioodpadów (odpady selektywne - BIO)
+END:VEVENT
+BEGIN:VEVENT
+UID:0a8af7e4-dfc7-465f-975e-25334cfa2038
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260514
+DTEND;VALUE=DATE:20260514
+SUMMARY:🟡 Plastik i metal
+DESCRIPTION:Odbiór plastiku i metalu (odpady selektywne)
+END:VEVENT
+BEGIN:VEVENT
+UID:9fdd1feb-6291-410e-a991-2ee81c3a365b
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260514
+DTEND;VALUE=DATE:20260514
+SUMMARY:🟢 Szkło
+DESCRIPTION:Odbiór szkła (odpady selektywne)
+END:VEVENT
+BEGIN:VEVENT
+UID:c3d8c0f7-74ff-4bf9-814b-b0aa132e0a42
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260514
+DTEND;VALUE=DATE:20260514
+SUMMARY:🗑️ Odpady zmieszane (czwartek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:3fde2378-de40-42c2-9a55-156071dc2489
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260515
+DTEND;VALUE=DATE:20260515
+SUMMARY:🗑️ Odpady zmieszane (piątek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:14e1293e-3035-452b-944d-a25f6a18e750
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260518
+DTEND;VALUE=DATE:20260518
+SUMMARY:🗑️ Odpady zmieszane (poniedziałek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:864c2775-ad58-4948-a4af-64f5609cd8a3
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260519
+DTEND;VALUE=DATE:20260519
+SUMMARY:🗑️ Odpady zmieszane (wtorek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:e6012b16-6411-4e40-b367-0304d6dd5ec2
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260520
+DTEND;VALUE=DATE:20260520
+SUMMARY:🗑️ Odpady zmieszane (środa)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:fd476af7-1451-44bf-bfe7-8ee456a1c906
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260521
+DTEND;VALUE=DATE:20260521
+SUMMARY:🗑️ Odpady zmieszane (czwartek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:7313f54c-5175-4599-aa93-c30df1303606
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260522
+DTEND;VALUE=DATE:20260522
+SUMMARY:🗑️ Odpady zmieszane (piątek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:aed67fed-d303-4b9a-a120-54774166456c
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260525
+DTEND;VALUE=DATE:20260525
+SUMMARY:🗑️ Odpady zmieszane (poniedziałek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:67fd2b38-b57d-4ae8-a068-8f78a2d3731a
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260526
+DTEND;VALUE=DATE:20260526
+SUMMARY:🗑️ Odpady zmieszane (wtorek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:a194a211-9a4b-45ad-a68c-749be53e2f56
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260527
+DTEND;VALUE=DATE:20260527
+SUMMARY:🗑️ Odpady zmieszane (środa)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:05d04d29-2b7f-4783-9c9c-a940023067f4
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260528
+DTEND;VALUE=DATE:20260528
+SUMMARY:🟤 Bioodpady
+DESCRIPTION:Odbiór bioodpadów (odpady selektywne - BIO)
+END:VEVENT
+BEGIN:VEVENT
+UID:b82c83c6-e1b4-4846-9120-f131daa22c81
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260528
+DTEND;VALUE=DATE:20260528
+SUMMARY:🟡 Plastik i metal
+DESCRIPTION:Odbiór plastiku i metalu (odpady selektywne)
+END:VEVENT
+BEGIN:VEVENT
+UID:4816a593-3819-425f-adf6-96bd6b6a9ebb
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260528
+DTEND;VALUE=DATE:20260528
+SUMMARY:📦 Papier
+DESCRIPTION:Odbiór papieru (odpady selektywne)
+END:VEVENT
+BEGIN:VEVENT
+UID:3dbf07b5-4580-4131-a64a-d4994aa47fa1
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260528
+DTEND;VALUE=DATE:20260528
+SUMMARY:🗑️ Odpady zmieszane (czwartek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:6f3f7d07-6110-4061-8630-844251135a41
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260529
+DTEND;VALUE=DATE:20260529
+SUMMARY:🗑️ Odpady zmieszane (piątek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:5ad14332-4a31-44df-b626-6b5af46fe7b0
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260601
+DTEND;VALUE=DATE:20260601
+SUMMARY:🗑️ Odpady zmieszane (poniedziałek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:9654bb82-748f-4cc0-af7c-c581d91b0690
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260602
+DTEND;VALUE=DATE:20260602
+SUMMARY:🗑️ Odpady zmieszane (wtorek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:b2d263c2-5494-4e80-8366-c817f4d95d57
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260603
+DTEND;VALUE=DATE:20260603
+SUMMARY:🗑️ Odpady zmieszane (środa)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:1d064076-57ab-4d9f-91ce-0925dd922635
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260604
+DTEND;VALUE=DATE:20260604
+SUMMARY:🗑️ Odpady zmieszane (czwartek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:da01e086-028d-4c4c-b38c-e3f4472e3c68
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260605
+DTEND;VALUE=DATE:20260605
+SUMMARY:🗑️ Odpady zmieszane (piątek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:8c9d3fc1-e796-4f39-b516-83f6c196c4ba
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260608
+DTEND;VALUE=DATE:20260608
+SUMMARY:🗑️ Odpady zmieszane (poniedziałek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:09f0036e-72f1-4459-bacb-4fd8bb60d013
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260609
+DTEND;VALUE=DATE:20260609
+SUMMARY:🗑️ Odpady zmieszane (wtorek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:41d80ce6-9f20-4b3b-be0a-d071efb30f77
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260610
+DTEND;VALUE=DATE:20260610
+SUMMARY:🗑️ Odpady zmieszane (środa)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:ce281ad4-e81f-4de1-b5fc-591853dbd023
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260611
+DTEND;VALUE=DATE:20260611
+SUMMARY:🟤 Bioodpady
+DESCRIPTION:Odbiór bioodpadów (odpady selektywne - BIO)
+END:VEVENT
+BEGIN:VEVENT
+UID:6cd371ac-d018-4cc7-8573-e2f872052def
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260611
+DTEND;VALUE=DATE:20260611
+SUMMARY:🟡 Plastik i metal
+DESCRIPTION:Odbiór plastiku i metalu (odpady selektywne)
+END:VEVENT
+BEGIN:VEVENT
+UID:5ae28850-fa32-4792-b00a-aa0e1e696aa6
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260611
+DTEND;VALUE=DATE:20260611
+SUMMARY:🟢 Szkło
+DESCRIPTION:Odbiór szkła (odpady selektywne)
+END:VEVENT
+BEGIN:VEVENT
+UID:e5e6af6a-8a92-4dc5-ab82-a17addd65b19
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260611
+DTEND;VALUE=DATE:20260611
+SUMMARY:🗑️ Odpady zmieszane (czwartek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:30d45c79-87c7-470c-abdf-5f442e5b2f24
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260612
+DTEND;VALUE=DATE:20260612
+SUMMARY:🗑️ Odpady zmieszane (piątek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:9a4323ed-fef7-4239-b81c-fa018884be3b
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260615
+SUMMARY:🗑️ Odpady zmieszane (poniedziałek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:abc2c003-4c59-4975-afa0-b2c988a795fd
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260616
+DTEND;VALUE=DATE:20260616
+SUMMARY:🗑️ Odpady zmieszane (wtorek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:dd775b55-b230-4af7-a146-8472423dea73
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260617
+DTEND;VALUE=DATE:20260617
+SUMMARY:🗑️ Odpady zmieszane (środa)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:31a54ce3-3321-4d22-8e0f-fecbe60e2a6c
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260618
+DTEND;VALUE=DATE:20260618
+SUMMARY:🗑️ Odpady zmieszane (czwartek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:14add227-7f76-4a8c-ad71-8450bafcdf26
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260619
+SUMMARY:🗑️ Odpady zmieszane (piątek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:984d1c3c-c39b-4ef2-b98a-c5994b9487e0
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260622
+DTEND;VALUE=DATE:20260622
+SUMMARY:🗑️ Odpady zmieszane (poniedziałek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:14444235-7d1a-40db-9ea0-4aa8981e718c
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260623
+DTEND;VALUE=DATE:20260623
+SUMMARY:🗑️ Odpady zmieszane (wtorek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:a104eb76-fbcd-4985-8e3c-c91906f00794
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260624
+DTEND;VALUE=DATE:20260624
+SUMMARY:🗑️ Odpady zmieszane (środa)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:3737f4f3-3c21-4304-b36c-d6bf54ba2e1d
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260625
+DTEND;VALUE=DATE:20260625
+SUMMARY:🟤 Bioodpady
+DESCRIPTION:Odbiór bioodpadów (odpady selektywne - BIO)
+END:VEVENT
+BEGIN:VEVENT
+UID:777e4ee8-7bfd-4756-afb0-127930d1efc3
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260625
+DTEND;VALUE=DATE:20260625
+SUMMARY:🟡 Plastik i metal
+DESCRIPTION:Odbiór plastiku i metalu (odpady selektywne)
+END:VEVENT
+BEGIN:VEVENT
+UID:37431473-493e-4c20-9c27-e93b1bbdb9cc
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260625
+DTEND;VALUE=DATE:20260625
+SUMMARY:📦 Papier
+DESCRIPTION:Odbiór papieru (odpady selektywne)
+END:VEVENT
+BEGIN:VEVENT
+UID:bda17926-57a3-4445-89f1-e20aba17927e
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260625
+DTEND;VALUE=DATE:20260625
+SUMMARY:🗑️ Odpady zmieszane (czwartek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:1d511cc3-de0a-4cc8-bc01-fd90eb1267f8
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260626
+DTEND;VALUE=DATE:20260626
+SUMMARY:🗑️ Odpady zmieszane (piątek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:23ea4360-b372-4a73-98bb-225ab837bcae
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260629
+DTEND;VALUE=DATE:20260629
+SUMMARY:🗑️ Odpady zmieszane (poniedziałek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:62083247-7770-43a0-82bd-f202896a2673
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260630
+SUMMARY:🗑️ Odpady zmieszane (wtorek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:d57f801f-d18f-4148-9d75-5d4323061f3a
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260701
+SUMMARY:🗑️ Odpady zmieszane (środa)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:da46f75c-e4b5-46f2-973c-d1b8dce55d54
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260702
+DTEND;VALUE=DATE:20260702
+SUMMARY:🗑️ Odpady zmieszane (czwartek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:43270224-ece1-4b9f-a9a3-caf5e894ba68
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260703
+DTEND;VALUE=DATE:20260703
+SUMMARY:🗑️ Odpady zmieszane (piątek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:894c3d90-2ce4-4da3-8145-9d8a115d3b2a
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260706
+DTEND;VALUE=DATE:20260706
+SUMMARY:🗑️ Odpady zmieszane (poniedziałek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:a5c35963-bde1-4d91-a523-8dc12fc31a73
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260707
+DTEND;VALUE=DATE:20260707
+SUMMARY:🗑️ Odpady zmieszane (wtorek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:68ec9764-69e2-4151-8119-49e2f6f2b812
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260708
+DTEND;VALUE=DATE:20260708
+SUMMARY:🗑️ Odpady zmieszane (środa)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:8e8d2e71-1983-480f-9ec8-7377d3ae6f7f
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260709
+DTEND;VALUE=DATE:20260709
+SUMMARY:🟤 Bioodpady
+DESCRIPTION:Odbiór bioodpadów (odpady selektywne - BIO)
+END:VEVENT
+BEGIN:VEVENT
+UID:f96037a8-8f86-4c38-80e7-83e76d19ca4d
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260709
+DTEND;VALUE=DATE:20260709
+SUMMARY:🟡 Plastik i metal
+DESCRIPTION:Odbiór plastiku i metalu (odpady selektywne)
+END:VEVENT
+BEGIN:VEVENT
+UID:c44a4b10-d6c9-4057-9431-7cca7ce02233
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260709
+DTEND;VALUE=DATE:20260709
+SUMMARY:🟢 Szkło
+DESCRIPTION:Odbiór szkła (odpady selektywne)
+END:VEVENT
+BEGIN:VEVENT
+UID:d19e529b-ec62-4e68-97cb-27ef9afdfd46
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260709
+DTEND;VALUE=DATE:20260709
+SUMMARY:🗑️ Odpady zmieszane (czwartek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:b49d0350-2e6c-4af3-b2f6-4f6f0c1ee21a
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260710
+SUMMARY:🗑️ Odpady zmieszane (piątek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:ec03c121-fc16-46d4-a1a2-e6f739b8d96d
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260713
+DTEND;VALUE=DATE:20260713
+SUMMARY:🗑️ Odpady zmieszane (poniedziałek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:8e1c4a15-2333-453d-b380-8923fe791ece
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260714
+DTEND;VALUE=DATE:20260714
+SUMMARY:🗑️ Odpady zmieszane (wtorek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:fbd0ec7e-bf40-480f-ae7f-7be8d5cf53e0
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260715
+DTEND;VALUE=DATE:20260715
+SUMMARY:🗑️ Odpady zmieszane (środa)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:b4917708-fabd-4d99-afe0-f0154797c91a
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260716
+DTEND;VALUE=DATE:20260716
+SUMMARY:🗑️ Odpady zmieszane (czwartek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:7b0ace65-ae16-4fbe-bb5a-ef2fe51dd73f
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260717
+DTEND;VALUE=DATE:20260717
+SUMMARY:🗑️ Odpady zmieszane (piątek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:1d5f2b18-a987-4577-ab21-fb7bc3830ccf
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260720
+DTEND;VALUE=DATE:20260720
+SUMMARY:🗑️ Odpady zmieszane (poniedziałek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:21c77182-71e7-4891-9b07-bcda4364d7f0
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260721
+DTEND;VALUE=DATE:20260721
+SUMMARY:🗑️ Odpady zmieszane (wtorek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:29ab65ef-bb19-43d3-a4c7-e6498066c6be
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260722
+DTEND;VALUE=DATE:20260722
+SUMMARY:🗑️ Odpady zmieszane (środa)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:3cc7ea64-197b-4ab9-b7a3-0b9eb0261779
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260723
+DTEND;VALUE=DATE:20260723
+SUMMARY:🟤 Bioodpady
+DESCRIPTION:Odbiór bioodpadów (odpady selektywne - BIO)
+END:VEVENT
+BEGIN:VEVENT
+UID:0c82f009-366c-4e03-bc9c-d968506d53c3
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260723
+DTEND;VALUE=DATE:20260723
+SUMMARY:🟡 Plastik i metal
+DESCRIPTION:Odbiór plastiku i metalu (odpady selektywne)
+END:VEVENT
+BEGIN:VEVENT
+UID:37eac1bc-0f07-4d9d-b40d-ea1b7390ddb5
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260723
+DTEND;VALUE=DATE:20260723
+SUMMARY:📦 Papier
+DESCRIPTION:Odbiór papieru (odpady selektywne)
+END:VEVENT
+BEGIN:VEVENT
+UID:b4b9f6ca-4496-4e6c-b396-a68b2966758f
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260723
+DTEND;VALUE=DATE:20260723
+SUMMARY:🛋️ Gabaryty i RTV/AGD
+DESCRIPTION:Odbiór odpadów wielkogabarytowych oraz sprzętu RTV i AGD. Odpady wystawić najpóźniej w dniu wywozu do godz. 6:00.
+END:VEVENT
+BEGIN:VEVENT
+UID:65ea931f-70af-4d61-b96f-305799798a3d
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260723
+DTEND;VALUE=DATE:20260723
+SUMMARY:🗑️ Odpady zmieszane (czwartek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:4f997cfb-5ab2-42b3-abf1-4c8f713f79fc
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260724
+DTEND;VALUE=DATE:20260724
+SUMMARY:🗑️ Odpady zmieszane (piątek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:8a64285b-ed09-49b7-8599-c934af6ea7c8
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260727
+DTEND;VALUE=DATE:20260727
+SUMMARY:🗑️ Odpady zmieszane (poniedziałek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:c500106d-ad72-4844-a9b7-ede1bf1608af
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260728
+DTEND;VALUE=DATE:20260728
+SUMMARY:🗑️ Odpady zmieszane (wtorek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:bcc08383-8d3e-48ce-9ad7-ccf37f53424f
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260729
+DTEND;VALUE=DATE:20260729
+SUMMARY:🗑️ Odpady zmieszane (środa)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:ae3f61c0-f3b5-4e1a-84a9-125bbd96e3cd
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260730
+DTEND;VALUE=DATE:20260730
+SUMMARY:🗑️ Odpady zmieszane (czwartek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:d3fcf3bd-ba3c-45ef-8031-6c1cf1ef10b2
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260731
+SUMMARY:🗑️ Odpady zmieszane (piątek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:f736865b-46d2-4040-8018-304d72ff48dc
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260803
+DTEND;VALUE=DATE:20260803
+SUMMARY:🗑️ Odpady zmieszane (poniedziałek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:2040343a-478c-4a91-a613-91c376dbbe6f
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260804
+DTEND;VALUE=DATE:20260804
+SUMMARY:🗑️ Odpady zmieszane (wtorek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:2e2e2d69-f2fe-4c11-8460-d440b10b11dc
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260805
+DTEND;VALUE=DATE:20260805
+SUMMARY:🗑️ Odpady zmieszane (środa)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:bf7e4208-5d44-4848-a7cc-622d609fdab1
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260806
+DTEND;VALUE=DATE:20260806
+SUMMARY:🟤 Bioodpady
+DESCRIPTION:Odbiór bioodpadów (odpady selektywne - BIO)
+END:VEVENT
+BEGIN:VEVENT
+UID:23538571-9f94-44b8-b590-a9fe2fb502f6
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260806
+DTEND;VALUE=DATE:20260806
+SUMMARY:🟡 Plastik i metal
+DESCRIPTION:Odbiór plastiku i metalu (odpady selektywne)
+END:VEVENT
+BEGIN:VEVENT
+UID:e73962e0-9c36-41ee-90fc-f081021f3008
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260806
+DTEND;VALUE=DATE:20260806
+SUMMARY:🟢 Szkło
+DESCRIPTION:Odbiór szkła (odpady selektywne)
+END:VEVENT
+BEGIN:VEVENT
+UID:d4d9e08c-10b5-49da-84c8-704dae74adac
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260806
+DTEND;VALUE=DATE:20260806
+SUMMARY:🗑️ Odpady zmieszane (czwartek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:65c3518c-5a4c-4be7-8f53-d57ca15bf473
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260807
+DTEND;VALUE=DATE:20260807
+SUMMARY:🗑️ Odpady zmieszane (piątek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:7a1d575f-1267-400d-80c6-021686f3db2c
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260810
+DTEND;VALUE=DATE:20260810
+SUMMARY:🗑️ Odpady zmieszane (poniedziałek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:93987aee-0e26-4826-b979-f2a76273bd8d
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260811
+DTEND;VALUE=DATE:20260811
+SUMMARY:🗑️ Odpady zmieszane (wtorek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:f110a62a-0ffd-482d-bd3d-c60011985bf8
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260812
+DTEND;VALUE=DATE:20260812
+SUMMARY:🗑️ Odpady zmieszane (środa)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:ef10c23a-34ca-4d91-836c-4b4cd5021c8c
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260813
+DTEND;VALUE=DATE:20260813
+SUMMARY:🗑️ Odpady zmieszane (czwartek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:855bc955-7c43-4aa3-87d5-ea50428e5d8e
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260814
+SUMMARY:🗑️ Odpady zmieszane (piątek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:17bf72ef-76b8-417a-9eb3-745d9114be07
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260817
+DTEND;VALUE=DATE:20260817
+SUMMARY:🗑️ Odpady zmieszane (poniedziałek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:b4c7a304-28ff-4f21-ac08-47c20751b10b
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260818
+DTEND;VALUE=DATE:20260818
+SUMMARY:🗑️ Odpady zmieszane (wtorek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:93b29959-08b0-4b31-9a6d-cdc1b0b59d4d
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260819
+DTEND;VALUE=DATE:20260819
+SUMMARY:🗑️ Odpady zmieszane (środa)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:e072135a-ddd1-4e6f-aa5f-6e92d0ff593e
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260820
+DTEND;VALUE=DATE:20260820
+SUMMARY:🟤 Bioodpady
+DESCRIPTION:Odbiór bioodpadów (odpady selektywne - BIO)
+END:VEVENT
+BEGIN:VEVENT
+UID:f32d2037-84d9-4a9f-84ac-dfb276e56a93
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260820
+DTEND;VALUE=DATE:20260820
+SUMMARY:🟡 Plastik i metal
+DESCRIPTION:Odbiór plastiku i metalu (odpady selektywne)
+END:VEVENT
+BEGIN:VEVENT
+UID:64b6ef25-a08c-45da-9b04-77c2d23b9b1f
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260820
+DTEND;VALUE=DATE:20260820
+SUMMARY:📦 Papier
+DESCRIPTION:Odbiór papieru (odpady selektywne)
+END:VEVENT
+BEGIN:VEVENT
+UID:9a980c10-9ef6-438d-8a9b-079b71ac3db2
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260820
+DTEND;VALUE=DATE:20260820
+SUMMARY:🗑️ Odpady zmieszane (czwartek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:ea93baa5-3095-42e3-9b1c-0454ae57db28
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260821
+SUMMARY:🗑️ Odpady zmieszane (piątek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:f2b71a7c-e925-45af-8053-7404f1bec93c
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260824
+DTEND;VALUE=DATE:20260824
+SUMMARY:🗑️ Odpady zmieszane (poniedziałek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:8126f551-6084-40eb-8c67-cc2958b143fc
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260825
+DTEND;VALUE=DATE:20260825
+SUMMARY:🗑️ Odpady zmieszane (wtorek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:15458ceb-4167-4e82-a01f-ffe4fc66cd92
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260826
+DTEND;VALUE=DATE:20260826
+SUMMARY:🗑️ Odpady zmieszane (środa)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:fe1b19ca-d842-402b-9c35-bf0e83cb7f52
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260827
+DTEND;VALUE=DATE:20260827
+SUMMARY:🗑️ Odpady zmieszane (czwartek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:ef125994-d14a-4d04-b537-eccfd2456c35
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260828
+SUMMARY:🗑️ Odpady zmieszane (piątek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:7c18f3a5-a377-4d66-83f2-26be0c2bac17
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260831
+SUMMARY:🗑️ Odpady zmieszane (poniedziałek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:85c59e99-fca0-4952-93f7-993a7b91760e
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260901
+SUMMARY:🗑️ Odpady zmieszane (wtorek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:4b7f5a11-d3f3-4214-98e7-00120e5b1ea0
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260902
+DTEND;VALUE=DATE:20260902
+SUMMARY:🗑️ Odpady zmieszane (środa)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:603ce8d4-f23a-434b-ae6c-c8fc49325e14
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260903
+DTEND;VALUE=DATE:20260903
+SUMMARY:🟤 Bioodpady
+DESCRIPTION:Odbiór bioodpadów (odpady selektywne - BIO)
+END:VEVENT
+BEGIN:VEVENT
+UID:e0ac8e61-e55b-4601-a2c2-a69c63983e7f
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260903
+DTEND;VALUE=DATE:20260903
+SUMMARY:🟡 Plastik i metal
+DESCRIPTION:Odbiór plastiku i metalu (odpady selektywne)
+END:VEVENT
+BEGIN:VEVENT
+UID:7008e69e-ca62-4d26-9a03-3a81af3417ae
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260903
+DTEND;VALUE=DATE:20260903
+SUMMARY:🟢 Szkło
+DESCRIPTION:Odbiór szkła (odpady selektywne)
+END:VEVENT
+BEGIN:VEVENT
+UID:0486fc4f-60ef-434b-be20-171adb80e9e8
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260903
+DTEND;VALUE=DATE:20260903
+SUMMARY:🗑️ Odpady zmieszane (czwartek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:9d80d326-9968-4dbf-a923-1494531146f9
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260904
+SUMMARY:🗑️ Odpady zmieszane (piątek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:b5afbf08-c4b4-440d-ae57-e074f8131231
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260907
+SUMMARY:🗑️ Odpady zmieszane (poniedziałek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:b165e675-0622-4cd8-819b-65939439d8ae
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260908
+SUMMARY:🗑️ Odpady zmieszane (wtorek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:016555d1-5497-4bc4-8c14-539edebc5bb1
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260909
+DTEND;VALUE=DATE:20260909
+SUMMARY:🗑️ Odpady zmieszane (środa)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:e70fdd6e-ba95-4137-80f2-eb2b8741e3cf
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260910
+SUMMARY:🗑️ Odpady zmieszane (czwartek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:be551e37-85a9-4a76-a4fe-acb522eb5e96
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260911
+SUMMARY:🗑️ Odpady zmieszane (piątek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:79bae65e-ad7e-42e5-a6fc-3cd6ac13f598
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260914
+SUMMARY:🗑️ Odpady zmieszane (poniedziałek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:5f3a806b-816e-46fe-8d99-edcee8503370
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260915
+SUMMARY:🗑️ Odpady zmieszane (wtorek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:b5f79004-2f0c-4f40-8d35-cdabaf7a9734
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260916
+SUMMARY:🗑️ Odpady zmieszane (środa)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:f3243abb-9830-4bd7-8514-1ae051525804
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260917
+SUMMARY:🟤 Bioodpady
+DESCRIPTION:Odbiór bioodpadów (odpady selektywne - BIO)
+END:VEVENT
+BEGIN:VEVENT
+UID:064ca8e6-1737-4115-adaf-ff93e107ebfd
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260917
+SUMMARY:🟡 Plastik i metal
+DESCRIPTION:Odbiór plastiku i metalu (odpady selektywne)
+END:VEVENT
+BEGIN:VEVENT
+UID:c9d5951c-0c60-42f4-bb67-92d61442243f
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260917
+SUMMARY:🗑️ Odpady zmieszane (czwartek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:5166842e-8679-43e0-be81-25603fdba92c
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260918
+SUMMARY:🗑️ Odpady zmieszane (piątek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:5bcd9693-bbef-443d-865c-08253cc122b3
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260921
+SUMMARY:🗑️ Odpady zmieszane (poniedziałek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:fcb3806c-21ec-42de-9833-92d2afc69752
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20260922
+SUMMARY:🗑️ Odpady zmieszane (wtorek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:8dda8741-2695-4341-ae9c-ea42c83ce26f
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260923
+SUMMARY:🗑️ Odpady zmieszane (środa)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:058f7640-e816-40ff-be2f-83ff13b15ef2
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260924
+SUMMARY:🗑️ Odpady zmieszane (czwartek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:b9e86571-d2a6-469a-9019-dcd62067e719
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260925
+SUMMARY:🗑️ Odpady zmieszane (piątek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:14ba6bec-cb7d-4f36-b488-462e1ed912a9
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260928
+SUMMARY:🗑️ Odpady zmieszane (poniedziałek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:7c8faaf0-b5d8-4774-8b58-4bd1868a2625
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260929
+SUMMARY:🗑️ Odpady zmieszane (wtorek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:857ed495-5f99-4376-8009-8bf220e24817
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20260930
+SUMMARY:🗑️ Odpady zmieszane (środa)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:dc59a37a-7dbc-4d5a-a246-96c86bdd79cb
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261001
+SUMMARY:🟤 Bioodpady
+DESCRIPTION:Odbiór bioodpadów (odpady selektywne - BIO)
+END:VEVENT
+BEGIN:VEVENT
+UID:27d73dc8-986a-4387-882d-a83230ae717a
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261001
+SUMMARY:🟢 Szkło
+DESCRIPTION:Odbiór szkła (odpady selektywne)
+END:VEVENT
+BEGIN:VEVENT
+UID:124b15f4-5e7b-48f9-9fea-0dffda4fcdf5
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261001
+SUMMARY:📦 Papier
+DESCRIPTION:Odbiór papieru (odpady selektywne)
+END:VEVENT
+BEGIN:VEVENT
+UID:134b2341-00b6-4313-8199-e119238b5e65
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261001
+SUMMARY:🗑️ Odpady zmieszane (czwartek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:a1817970-49f6-40d6-b1e1-7a385c4fc897
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261002
+SUMMARY:🗑️ Odpady zmieszane (piątek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:98ea294e-eb04-48fc-b009-d0990c5fb080
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261005
+SUMMARY:🗑️ Odpady zmieszane (poniedziałek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:9bf79112-e559-4626-902c-3c049f206482
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261006
+SUMMARY:🗑️ Odpady zmieszane (wtorek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:ffd51dd6-7730-4008-a329-e2d81c16d151
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261007
+SUMMARY:🗑️ Odpady zmieszane (środa)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:b4737ac5-7b48-4a32-98b3-8958db0c5488
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261008
+SUMMARY:🗑️ Odpady zmieszane (czwartek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:cd16ec51-5660-4a9e-8a26-5559b1869563
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261009
+SUMMARY:🗑️ Odpady zmieszane (piątek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:2e0928bb-7e3c-419c-83ac-14ce719eade7
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261012
+SUMMARY:🗑️ Odpady zmieszane (poniedziałek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:888026aa-8cff-4367-8460-7cd2302de4fa
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261013
+SUMMARY:🗑️ Odpady zmieszane (wtorek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:b57f0c2e-704a-4d67-bd1a-a7288c54ad30
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261014
+SUMMARY:🗑️ Odpady zmieszane (środa)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:e2612d68-72c6-49f7-92e6-d43579f59230
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261015
+SUMMARY:🟤 Bioodpady
+DESCRIPTION:Odbiór bioodpadów (odpady selektywne - BIO)
+END:VEVENT
+BEGIN:VEVENT
+UID:3bb7aa44-5436-42fc-add8-f4dde1d8dcaf
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261015
+SUMMARY:🟡 Plastik i metal
+DESCRIPTION:Odbiór plastiku i metalu (odpady selektywne)
+END:VEVENT
+BEGIN:VEVENT
+UID:3dd91b31-d83b-46cd-b8f0-60f5d75ebc58
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261015
+SUMMARY:🛋️ Gabaryty i RTV/AGD
+DESCRIPTION:Odbiór odpadów wielkogabarytowych oraz sprzętu RTV i AGD. Odpady wystawić najpóźniej w dniu wywozu do godz. 6:00.
+END:VEVENT
+BEGIN:VEVENT
+UID:0ad6f2de-1d52-42ac-afe8-68a85a79c1d3
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261015
+SUMMARY:🗑️ Odpady zmieszane (czwartek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:04195c41-0afe-40bf-b88e-5f357f87e1f1
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261016
+SUMMARY:🗑️ Odpady zmieszane (piątek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:f9840bd0-2b4d-4f3d-a2df-c9017ee0ee24
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261019
+SUMMARY:🗑️ Odpady zmieszane (poniedziałek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:d05a85e7-bcc6-493f-8d2a-8cf48b10fc5e
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261020
+SUMMARY:🗑️ Odpady zmieszane (wtorek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:eb0c0e38-1242-4f35-b20f-be5d4d9d6e1b
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261021
+SUMMARY:🗑️ Odpady zmieszane (środa)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:e4791c02-2643-4d51-9334-4494057f2313
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261022
+SUMMARY:🗑️ Odpady zmieszane (czwartek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:fdbb3a4d-31ef-4415-a407-923cfafda9ac
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261023
+SUMMARY:🗑️ Odpady zmieszane (piątek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:e410a8e8-a643-4ed6-b915-36eac38391fd
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261026
+SUMMARY:🗑️ Odpady zmieszane (poniedziałek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:8b0306fe-9d6d-4a09-9ac9-6d1c5a4d0154
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261027
+SUMMARY:🗑️ Odpady zmieszane (wtorek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:15251e6a-87cb-4069-945a-24d867bb7fe6
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261028
+SUMMARY:🗑️ Odpady zmieszane (środa)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:a658b2c1-1059-4a72-af5f-58a4555feb8b
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261029
+SUMMARY:🟤 Bioodpady
+DESCRIPTION:Odbiór bioodpadów (odpady selektywne - BIO)
+END:VEVENT
+BEGIN:VEVENT
+UID:23c278ef-c933-4a6a-af00-e8ea15965fba
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261029
+SUMMARY:🗑️ Odpady zmieszane (czwartek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:2935eba1-51ae-48ed-a569-9c218d248844
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261030
+SUMMARY:🗑️ Odpady zmieszane (piątek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:3067c65b-5c35-40f3-a3a8-e1cc92e12453
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261102
+SUMMARY:🗑️ Odpady zmieszane (poniedziałek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:acbb2d89-57e7-4d9b-9e17-7c1f989669e2
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261103
+SUMMARY:🗑️ Odpady zmieszane (wtorek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:bc6b5a00-9119-46bc-ab17-ab3d87b5e692
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261104
+SUMMARY:🗑️ Odpady zmieszane (środa)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:f94e8be4-f1c0-4763-9be4-495dc46c6c24
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261105
+SUMMARY:🗑️ Odpady zmieszane (czwartek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:14804203-0a7f-4bd3-ad62-c524c7f3701d
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261106
+SUMMARY:🗑️ Odpady zmieszane (piątek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:25137d74-3c47-4ade-bf0c-2e9864dfc4eb
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261109
+SUMMARY:🗑️ Odpady zmieszane (poniedziałek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:4dadf834-2d1f-463b-ae33-53a51ff68afc
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261110
+SUMMARY:🗑️ Odpady zmieszane (wtorek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:79c5e7ab-17c0-447f-9211-d27b9b892233
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261111
+SUMMARY:🗑️ Odpady zmieszane (środa)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:76a37629-1fc0-4402-ba38-6af034ca7bb9
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261112
+SUMMARY:🗑️ Odpady zmieszane (czwartek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:d6735567-d9f8-49cc-8e3f-a0545349fa27
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261113
+SUMMARY:🟡 Plastik i metal
+DESCRIPTION:Odbiór plastiku i metalu (odpady selektywne)
+END:VEVENT
+BEGIN:VEVENT
+UID:80b1c2de-d384-4168-b5bc-6da30b99ce92
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261113
+SUMMARY:📦 Papier
+DESCRIPTION:Odbiór papieru (odpady selektywne)
+END:VEVENT
+BEGIN:VEVENT
+UID:c6335399-94dd-49a7-b8c8-07306bfbcc83
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261113
+SUMMARY:🗑️ Odpady zmieszane (piątek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:dcbc88f5-32a7-4e14-8aeb-9bf21a341c69
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261116
+SUMMARY:🗑️ Odpady zmieszane (poniedziałek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:610eb3f9-359d-447e-a81f-e229ad972d54
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261117
+SUMMARY:🗑️ Odpady zmieszane (wtorek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:dc3b1090-7ace-4c29-acfd-c0ead9e71c8c
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261118
+SUMMARY:🗑️ Odpady zmieszane (środa)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:490e681b-acfb-43b3-af2e-e972fc0c041b
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261119
+SUMMARY:🗑️ Odpady zmieszane (czwartek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:27bab0fb-6358-48c4-866d-55a1f878312c
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261120
+SUMMARY:🗑️ Odpady zmieszane (piątek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:841e8e9a-0018-40f9-bb16-da0fe7239f8e
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261123
+SUMMARY:🗑️ Odpady zmieszane (poniedziałek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:ede62346-28d5-4c6c-ad4b-f84b42d28e3b
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261124
+SUMMARY:🗑️ Odpady zmieszane (wtorek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:8166eae1-65ef-4244-bec3-74eff8117971
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261125
+SUMMARY:🗑️ Odpady zmieszane (środa)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:dde71700-aa8b-4217-ab2e-ba1860e04bf9
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261126
+SUMMARY:🟤 Bioodpady
+DESCRIPTION:Odbiór bioodpadów (odpady selektywne - BIO)
+END:VEVENT
+BEGIN:VEVENT
+UID:ba5419db-5063-4e9b-8c29-f91e1b89018c
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261126
+SUMMARY:🟢 Szkło
+DESCRIPTION:Odbiór szkła (odpady selektywne)
+END:VEVENT
+BEGIN:VEVENT
+UID:7331ba4f-fab0-4649-a3e9-cf913420730f
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261126
+SUMMARY:🗑️ Odpady zmieszane (czwartek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:1aa66b98-1db5-4feb-80e4-f783f70fc4c3
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261127
+SUMMARY:🗑️ Odpady zmieszane (piątek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:993f5a79-cbc8-4b8b-ae82-ad9c27cb42cc
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261130
+SUMMARY:🗑️ Odpady zmieszane (poniedziałek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:f7f0c5d8-0cb9-4eef-862d-4af033557b97
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261201
+SUMMARY:🗑️ Odpady zmieszane (wtorek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:174e37fc-7a99-486c-a317-8c56958e0745
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261202
+SUMMARY:🗑️ Odpady zmieszane (środa)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:d396a7f1-ecc2-4d11-87db-de4bde4fa9f5
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261203
+SUMMARY:🗑️ Odpady zmieszane (czwartek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:0d8347da-5ee3-4fea-9e96-126adf145352
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261204
+SUMMARY:🗑️ Odpady zmieszane (piątek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:0b71f601-2946-4beb-9438-d3be45ad9248
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261207
+SUMMARY:🗑️ Odpady zmieszane (poniedziałek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:68d50b27-ba94-4cc5-a6f1-85dfe234c127
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261208
+SUMMARY:🗑️ Odpady zmieszane (wtorek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:1f7c0c60-b15c-4028-a8b5-733dd7a6fd8f
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261209
+SUMMARY:🗑️ Odpady zmieszane (środa)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:51f16c65-6a22-4d79-8534-5dc11edf07e3
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261210
+SUMMARY:🟡 Plastik i metal
+DESCRIPTION:Odbiór plastiku i metalu (odpady selektywne)
+END:VEVENT
+BEGIN:VEVENT
+UID:bba1e671-5edf-4fbd-a059-0cec9cf09f29
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261210
+SUMMARY:🗑️ Odpady zmieszane (czwartek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:b63cb08a-7eea-49b8-8e2e-e0e9413b165a
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261211
+SUMMARY:🗑️ Odpady zmieszane (piątek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:0caa1389-7bf7-4fe1-a6c5-2f3b73a6dab3
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261214
+SUMMARY:🗑️ Odpady zmieszane (poniedziałek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:2c060dbb-8394-4e71-938d-8db5e90d9c96
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261215
+SUMMARY:🗑️ Odpady zmieszane (wtorek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:ea11e26f-a049-4105-a3e0-5811a24a15b0
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261216
+SUMMARY:🗑️ Odpady zmieszane (środa)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:b8645a1f-b8a5-41b3-b14b-5f83b9118b25
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261217
+SUMMARY:🗑️ Odpady zmieszane (czwartek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:baa54472-20d8-4c64-ac1f-3548ae558329
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261218
+SUMMARY:🗑️ Odpady zmieszane (piątek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:9961f4d4-99c2-4266-823c-d5bcbfe34083
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261221
+SUMMARY:🗑️ Odpady zmieszane (poniedziałek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:46668233-07cf-43f2-bc59-a12198b1cfc6
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20261222
+DTEND;VALUE=DATE:20261222
+SUMMARY:🗑️ Odpady zmieszane (wtorek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:728f7f11-6a21-4360-85fb-aa1c0f4fc098
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261223
+SUMMARY:🟤 Bioodpady
+DESCRIPTION:Odbiór bioodpadów (odpady selektywne - BIO)
+END:VEVENT
+BEGIN:VEVENT
+UID:c4d98702-f69c-4afc-b40d-4665d803c2ed
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261223
+SUMMARY:🗑️ Odpady zmieszane (środa)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:ec1d93a0-7e45-41fd-82fc-e9669ba93412
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20261224
+SUMMARY:🗑️ Odpady zmieszane (czwartek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:0915e051-71b8-4890-9f6c-9f7a41a69dce
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261225
+SUMMARY:🗑️ Odpady zmieszane (piątek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:3d8dfb80-ce09-4ae9-9295-2426ef219142
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20261228
+SUMMARY:🗑️ Odpady zmieszane (poniedziałek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:f0a455c1-51c1-4ee4-bd98-3cf58fe2a8ca
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20261229
+DTEND;VALUE=DATE:20261229
+SUMMARY:📦 Papier
+DESCRIPTION:Odbiór papieru (odpady selektywne)
+END:VEVENT
+BEGIN:VEVENT
+UID:29020b93-d04a-4403-86b3-a53b0e270c63
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20261229
+DTEND;VALUE=DATE:20261229
+SUMMARY:🗑️ Odpady zmieszane (wtorek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:cd7e599e-d3de-4255-9dc2-fac861e15575
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261230
+SUMMARY:🗑️ Odpady zmieszane (środa)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+BEGIN:VEVENT
+UID:af751da8-884c-478f-8113-b4e66e17aa22
+DTSTAMP:20260305T084705Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20261231
+SUMMARY:🗑️ Odpady zmieszane (czwartek)
+DESCRIPTION:Odbiór odpadów zmieszanych. Termin dotyczy wybranych ulic w rejonie – sprawdź szczegółowy harmonogram dla swojego adresu.
+END:VEVENT
+END:VCALENDAR
